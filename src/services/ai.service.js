@@ -9,7 +9,7 @@ async function generateResponse(content) {
     contents: content,
     config: {
       temperature: 0.7,
-      systemInstruction: `You are a helpful teacher who can answer the questions of a class 8 student.`,
+      systemInstruction: `You are a helpful teacher who can answer the questions of a class 8 student. only response the answer and explain it in simple words`,
     },
   });
   return response.text;
