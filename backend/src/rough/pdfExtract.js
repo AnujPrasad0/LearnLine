@@ -4,9 +4,13 @@ const chunker = require("../utils/chunker.js");
 
 async function run() {
   const parser = new PDFParse({
-    // url: "https://afeias.com/wp-content/uploads/2019/04/class8_history_english.pdf",
-    url: "https://www.drishtiias.com/images/pdf/History6.pdf",
+    url: "https://chahalacademy.com/admin_theme/book_file/India%20and%20Contemporary%20World-Class%20X.pdf",
   });
+
+  const className = "10";
+  const output = "output10.json";
+  const history = "history10.json";
+  const subject = "History";
 
   const result = await parser.getText();
 
@@ -14,8 +18,8 @@ async function run() {
     text: result.text,
   };
 
-  fs.writeFileSync("output6.json", JSON.stringify(data, null, 2));
-  console.log("Saved to output6.json");
+  fs.writeFileSync(output, JSON.stringify(data, null, 2));
+  console.log(`Saved to ${output}`);
 
   // Split PDF into pages (pdf-parse uses \f as form-feed)
   const pages = chunker.splitIntoPages(result.text);
@@ -24,17 +28,17 @@ async function run() {
 
   pages.forEach(({ pageNumber, text }) => {
     const chunks = chunker.parsePageTextToChunks(text, {
-      subject: "History",
-      className: "Class 6",
-      idPrefix: "page",
+      subject,
+      className,
+      idPrefix: className + "_" + subject,
       pageIndex: pageNumber - 1, // optional, not needed now
     });
 
     allChunks.push(...chunks);
   });
 
-  fs.writeFileSync("history6.json", JSON.stringify(allChunks, null, 2));
-  console.log("✓ history6.json created!");
+  fs.writeFileSync(history, JSON.stringify(allChunks, null, 2));
+  console.log(`✓ ${history} created!`);
 }
 
 run();
