@@ -1,0 +1,885 @@
+[
+  {
+    "id": "geo8_p1",
+    "metadata": {
+      "chunk_text": "2021–22",
+      "pdfPage": 1,
+      "hasFigure": false,
+      "subject": "geography",
+      "className": 8
+    }
+  },
+  {
+    "id": "geo8_p2",
+    "metadata": {
+      "chunk_text": "First Edition\nFebruary 2008\nMagha 1929\nReprinted\nFebruary 2009\nMagha 1930\nJanuary 2010\nPausa 1931\nJanuary 2011\nMagha 1932\nJanuary 2012\nMagha 1933\nNovember 2012\nKartika 1934\nNovember 2013\nKartika 1935\nNovember 2014\nAgrahayana 1936\nDecember 2015\nPausa 1937\nDecember 2016\nPausa 1938\nDecember 2017\nAgrahayana 1939\nJanuary 2019\nPausa 1940\nSeptember 2019\nBhadrapada 1941\nJanuary 2021\nPausa 1942\nPD  246T  RSP\n©\tNational Council of Educational\nResearch and Training, 2008\n` 60.00\nALL RIGHTS RESERVED\np\t No part of this publication may be reproduced, stored in a retrieval\nsystem or transmitted, in any form or by any means, electronic,\nmechanical, photocopying, recording or otherwise without the prior\npermission of the publisher.\np\t This book is sold subject to the condition that it shall not, by way of\ntrade,  be lent,  re-sold, hired out or otherwise disposed of without\nthe publisher’s consent, in any form of binding or cover other than\nthat in which it is published.\np\t The correct price of this publication is the price printed on this page,\nAny revised price indicated by a rubber stamp or by a sticker or by\nany other means is incorrect and should be unacceptable.\nPublication Team\nHead, Publication\n:\t Anup Kumar Rajput\nDivision\nChief Editor\n:\t Shveta Uppal\nChief Production\n:\t Arun Chitkara\nOfficer\nChief Business Manager\t :\t Vipin Dewan\n(In charge)\nEditor\n:\t R.N. Bhardwaj\nProduction Assistant\n:\t Om Prakash\nCover, Layout and Illustrations\nBlue Fish\nCartography\nCartographic Designs Agency\nOFFICES OF THE PUBLICATION\nDIVISION, NCERT\nNCERT Campus\nSri Aurobindo Marg\nNew  Delhi 110 016\nPhone :  011-26562708\n108, 100 Feet Road\nHosdakere Halli Extension\nBanashankari III Stage\nBangaluru 560 085\nPhone : 080-26725740\nNavjivan Trust Building\nP.O.Navjivan\nAhmedabad 380 014\nPhone :  079-27541446\nCWC Campus\nOpp. Dhankal Bus Stop\nPanihati\nKolkata 700 114\nPhone :  033-25530454\nCWC Complex\nMaligaon\nGuwahati 781 021\nPhone :  0361-2674869\nISBN  978-81-7450-816-4\n0858 – Resources and Development\nTextbook for Class VIII\nPrinted on 80 GSM paper with NCERT\nwatermark\nPublished at the Publication Division\nby the Secretary, National Council of\nEducational Research and Training, Sri\nAurobindo Marg, New Delhi 110 016 and\nprinted at B.M. Offset Printers, F-16,\nDSIDC Industrial Complex, Rohtak Road,\nNagloi, New Delhi\n2021–22",
+      "pdfPage": 2,
+      "hasFigure": false,
+      "subject": "geography",
+      "className": 8
+    }
+  },
+  {
+    "id": "geo8_p3",
+    "metadata": {
+      "chunk_text": "The National Curriculum Framework (NCF), 2005, recommends that\nchildren’s life at school must be linked to their life outside the school. This\nprinciple marks a departure from the legacy of bookish learning which\ncontinues to shape our  system and causes a gap between the school,\nhome and community. The syllabi and textbooks developed on the basis of\nNCF signify an attempt to implement this basic idea. They also attempt to\ndiscourage rote learning and the maintenance of sharp boundaries between\ndifferent subject areas. We hope these measures will take us significantly\nfurther in the direction of a child-centred system of education outlined in\nthe National Policy on Education (1986).\nThe success of this effort depends on the steps that school principals\nand teachers will take to encourage children to reflect on their own learning\nand to  pursue imaginative activities and questions. We must recognise\nthat, given space, time and freedom, children generate new knowledge by\nengaging with the information passed on to them by adults. Treating the\nprescribed textbook as the sole basis of examination is one of the key reasons\nwhy other resources and sites of learning are ignored. Inculcating creativity\nand initiative is possible if we perceive and treat children as participants in\nlearning, not as receivers of a fixed body of knowledge.\nThese aims imply considerable change in school routines and mode of\nfunctioning. Flexibility in the daily time-table is as necessary as rigour in\nimplementing the annual  calendar so that the required number of teaching\ndays are actually devoted to teaching. The methods used for teaching and\nevaluation will also determine how effective this textbook proves for making\nchildren’s life at school a happy experience, rather than a source of stress or\nboredom. Syllabus designers have tried to address the problem of curricular\nburden by restructuring and reorienting knowledge at different stages with\ngreater consideration for child psychology and the time available for teaching.\nThe textbook attempts to enhance this endeavour by giving higher priority\nand  space to opportunities for contemplation and wondering, discussion in\nsmall groups, and activities requiring hands-on experience.\nThe National Council of Educational Research and Training (NCERT)\nappreciates the hard work done by the textbook development committee\nresponsible for this book. We wish to thank the Chairperson of the advisory\ncommittee for textbooks in Social Sciences, at the upper primary level,\nProfessor Hari Vasudevan and the Chief Advisor for this book, Vibha\nParthasarathi, for guiding the work of this committee. Several teachers\nFOREWORD\n2021–22",
+      "pdfPage": 3,
+      "hasFigure": false,
+      "subject": "geography",
+      "className": 8
+    }
+  },
+  {
+    "id": "geo8_p4",
+    "metadata": {
+      "chunk_text": "contributed to the development of this textbook; we are grateful to their\nprincipals for making this possible. We are indebted to the institutions\nand organisations which have generously permitted us to draw upon their\nresources, material and personnel. We are especially grateful to the members\nof the National Monitoring Committee, appointed by the Department of\nSecondary and Higher Education, Ministry of Human Resource Development\nunder the Chairpersonship of Professor Mrinal Miri and Professor\nG.P. Deshpande, for their valuable time and contribution. As an organisation\ncommitted to systemic reform and continuous improvement in the quality of\nits products, NCERT welcomes comments and suggestions which will enable\nus to undertake further revision and refinement.\nDirector\nNew Delhi\nNational Council of Educational\n30 November 2007\nResearch and Training\niv\n2021–22",
+      "pdfPage": 4,
+      "hasFigure": false,
+      "subject": "geography",
+      "className": 8
+    }
+  },
+  {
+    "id": "geo8_p5",
+    "metadata": {
+      "chunk_text": "TEXTBOOK\nDEVELOPMENT\nCOMMITTEE\nChairperson, Advisory Committee for Textbooks in Social Sciences at\nthe Upper Primary Level\nHari Vasudevan, Professor, Department of History, University of Calcutta,\nKolkata\nChief Advisor\nVibha Parthasarathi, Principal (Retd.), Sardar Patel Vidyalaya, New Delhi\nMembers\nAnindita Datta, Lecturer, Delhi School of Economics, University of Delhi,\nDelhi\nAnshu, Reader, Kirorimal College, University of Delhi, Delhi\nAparna Pandey, Lecturer, DESSH, NCERT, New Delhi\nBhagirathy Jhingran, TGT, Pathways World School, Gurgaon\nMeera Hoon, TGT, Modern School, Barakhamba Road, New Delhi\nPunam Behari, Vice Principal, Miranda House, University of Delhi, Delhi\nSamita Dasgupta, PGT, Anandalaya, Anand, Gujarat\nSrinivasan K., TGT, Mallya Aditi International School, Bangalore\nSyamala Srivatsa, TGT, Sardar Patel Vidyalaya, New Delhi\nMember-coordinator\nTannu Malik, Lecturer, Department of Education in Social Sciences and\nHumanities, NCERT, New Delhi\n2021–22",
+      "pdfPage": 5,
+      "hasFigure": false,
+      "subject": "geography",
+      "className": 8
+    }
+  },
+  {
+    "id": "geo8_p6",
+    "metadata": {
+      "chunk_text": "ACKNOWLEDGEMENTS\nThe National Council of Educational Research and Training acknowledges\nthe contributions of Pramila Kumar, Professor (Retd), Bhopal and Shipra\nNair, Darjiling in the development of this textbook.\nAcknowledgements are also due to Savita Sinha, Professor and Head,\nDepartment of Education in Social Sciences and Humanities, NCERT, for\nher valuable support at every stage of preparation of this textbook.\nThe Council is also grateful to the individuals and organisations as\nlisted below for providing various photographs, illustrations and activities\nused in this textbook: Anshu, Reader, Kirorimal College, Delhi for\nFigs. 2.5, 2.15 and 4.14; Srinivasan K., TGT, Mallya Aditi International\nSchool, Bangalore for picture of varieties of maize on page 45; Krishan\nSheoran from Austria for Fig. 2.1; Mohammad Aslam, Learning Touch,\nNew Delhi for Fig. 4.4; R.C. Das, CIET, NCERT for Figs. 2.8, 2.10 and picture\nof bamboo on page 50; Nimisha Kapoor for the photographs of the windmill,\nchildren and the potter on the cover; Blue Fish for Fig. 1.1 and a picture of\na notebook on page 50; National Disaster Management Division, Ministry\nof Home Affairs for pictures of retention wall, Union Carbide Factory\nand rescue operation in Gao Qiao on page 12, 53 and 54 respectively;\nDepartment of Industry, Government of Bihar for Figs. 4.5, 4.6, 4.13 and 5.1;\nDirectorate of Extension, Ministry of Agriculture, I.A.R.I Campus, New Pusa,\nNew Delhi for Figs. 2.9, 4.9, 4.10, 4.11 and 4.14; Ministry of Environment\nand Forests, Government of India for Figs. 2.11, 2.12, 2.13, 2.14, 2.16,\n2.17, 2.18 and 2.19 and a picture of a vulture on page 18; Ministry of Coal,\nGovernment of India for Figs. 3.1 and 3.10; Ministry of New and Renewable\nEnergy, Government of India for Fig. 3.15; COMFED, Patna for Fig. 5.2;\nDirectorate of Advertising and Visual Publicity, Ministry of Information and\nBroadcasting for Figs. 3.7, 3.13 and 3.16; Oil and Natural Gas Corporation\nLimited for Figs. 3.4 and 3.11; ITDC/Ministry of Tourism, Government of\nIndia for Fig. 3.9; Social Science Textbook for Class VIII, Part II (NCERT,\n2005) for Figs. 2.6, 2.7, 4.7, 4.8, 4.12, 4.16, 4.17, 4.18 and a picture of\nlandslide on page 12; The Times of India, Hindustan Times and Indian\nExpress for news in a collage on page 20; Arvind Gupta, IUCAA, Pune for an\nactivity of solar worker on page 34 and Kushal Sharma, Reader, Kirorimal\nCollege, New Delhi for a case study of landslide on page12.\nThe Council also gratefully acknowledges the contribution of Uttam\nKumar, Anil Sharma and Moqaddas Azam, DTP Operators; Ajay Singh,\nSatish Jha, Copy Editors and Dinesh Kumar, Incharge, Computer Station\nwho have helped in giving a final shape to this textbook. The contribution of\nthe Publication Department, NCERT is also duly acknowledged.\n2021–22",
+      "pdfPage": 6,
+      "hasFigure": false,
+      "subject": "geography",
+      "className": 8
+    }
+  },
+  {
+    "id": "geo8_p7",
+    "metadata": {
+      "chunk_text": "CONTENTS\nForeword\niii\nChapter 1\n1 – 6\nResources\nChapter 2\n7 – 21\nLand, Soil, Water, Natural Vegetation\nand Wildlife Resources\nChapter 3\n22 – 37\nMineral and Power Resources\nChapter 4\n38 – 47\nAgriculture\nChapter 5\n48 – 61\nIndustries\nChapter 6\n62 – 71\nHuman Resources\n2021–22",
+      "pdfPage": 7,
+      "hasFigure": false,
+      "subject": "geography",
+      "className": 8
+    }
+  },
+  {
+    "id": "geo8_p8",
+    "metadata": {
+      "chunk_text": "2021–22",
+      "pdfPage": 8,
+      "hasFigure": false,
+      "subject": "geography",
+      "className": 8
+    }
+  },
+  {
+    "id": "geo8_p9",
+    "metadata": {
+      "chunk_text": "Mona and Raju were helping Amma to clean their house.\n“Look at all these things…. clothes, utensils, foodgrains,\ncombs, this bottle of honey, books…..Each of these has a\nuse,” said Mona. “That is why they are important,” said\nAmma. “These are resources…..”. “What is a resource?”\nwas Raju’s question to Amma. “Anything that can be used\nto satisfy a need is a resource”, replied amma. “Look around\nyou and observe, you will be able to identify many types of\nresources. The water you drink when you are thirsty, the\nelectricity you use in your house, the rickshaw you use to\nget home from school, the textbook you use to study are all\nresources. Your father has prepared a tasty snack for you.\nThe fresh vegetables he has used are also a resource”.\nWater, electricity, rickshaw, vegetable and textbook\nhave something in common. They have all been used by\nyou, so they have utility. Utility or usability is what makes\nan object or substance a resource.\n“How does something become a resource?” Raju now\nwanted to know. Amma told the children that things become\nresources only when they have a value. “Its use or utility gives\nit a value. All resources have some value.” said Amma.\nValue means worth. Some resources have economic\nvalue, some do not. For example, metals may have an\neconomic value, a beautiful landscape may not. But both\nare important and satisfy human needs.\nSome resources can become economically valuable\nwith time. Your grandmother’s home remedies have no\ncommercial value today. But if they are patented and sold by\na medical firm tomorrow, they could become economically\nvaluable.\nResources\nGlossary\nPatent: It means\nthe exclusive right\nover any idea or\ninvention.\nLet’s do\nList out five\nresources you use\nin your home and\nfive you use in\nyour classroom.\n2021–22",
+      "pdfPage": 9,
+      "hasFigure": false,
+      "subject": "geography",
+      "className": 8
+    }
+  },
+  {
+    "id": "geo8_p10",
+    "metadata": {
+      "chunk_text": "Resources and Development\nTime and technology are two important factors that\ncan change substances into resources. Both are related\nto the needs of the people. People themselves are the\nmost important resource. It is their ideas, knowledge,\ninventions and discoveries that lead to the creation of\nmore resources. Each discovery or invention leads to many\nothers. The discovery of fire led to the practice of cooking\nand other processes while the invention of the wheel\nultimately resulted in development of\nnewer modes of transport. The technology\nto create hydroelectricity\nhas turned energy in fast\nflowing\nwater\ninto\nan\nimportant resource.\nTypes of Resources\nResources are generally classified into\nnatural, human made and human.\nNatural Resources\nResources that are drawn from Nature and used without\nmuch modification are called natural resources. The\nair we breathe, the water in our rivers and lakes, the\nsoils, minerals are all natural resources. Many of these\nresources are free gifts of nature and can be used directly.\nIn some cases tools and technology may be needed to\nuse a natural resource in the best possible way.\nNatural resources can be broadly categorised into\nrenewable and non-renewable resources.\nRenewable resources are those which get renewed\nor replenished quickly. Some of these are unlimited\nand are not affected by human activities, such as solar\nand wind energy. Yet careless use of certain renewable\nresources like water, soil and forest can affect their\nstock. Water seems to be an unlimited renewable\nresource. But shortage and drying up of natural\nwater sources is a major problem in many parts of the\nworld today.\nNon-renewable resources are those which have a\nlimited stock. Once the stocks are exhausted it may\ntake thousands of years to be renewed or replenished.\nSince this period is much more than human life spans,\n“So I am a\nresource too!”\n“A very\nvaluable one!”\nAmma’s List\nCotton cloth\nIron ore\nIntelligence\nMedicinal plants\nMedical knowledge\nCoal deposits\nAgricultural land\nClean environment\nOld folk songs\nGood weather\nResourcefulness\nA good singing voice\nGrandmother’s\nhome remedies\nAffection from\nfriends and family\nBeautiful scenery\nActivity\nCircle those\nresources from\nAmma’s list that\nare regarded\nas having no\ncommercial value.\nGlossary\nTechnology: It is\nthe application of\nlatest knowledge\nand skill in doing\nor making things.\n2021–22",
+      "pdfPage": 10,
+      "hasFigure": false,
+      "subject": "geography",
+      "className": 8,
+      "bookPage": 2
+    }
+  },
+  {
+    "id": "geo8_p11",
+    "metadata": {
+      "chunk_text": "Resources     3\nsuch resources are considered non-renewable. Coal,\npetroleum and natural gas are some examples.\nThe distribution of natural resources depends\nupon number of physical factors like terrain, climate\nand altitude. The distribution of resources is unequal\nbecause these factors differ so much over the earth.\nHuman Made Resources\nSometimes, natural substances become resources only\nwhen their original form has been changed. Iron ore\nwas not a resource until people learnt to extract iron\nfrom it. People use natural resources to make buildings,\nbridges, roads, machinery and vehicles, which are\nknown as human made resources. Technology is also\na human made resource.\n“So people like us use natural resources to make human\nmade resources,” said Mona nodding in understanding.\n“Yes,” said Raju.\nHuman Resources\nPeople can make the best use of nature to create more\nresources when they have the knowledge, skill and the\nGlossary\nStock of Resource\nIt is the amount of\nresources available\nfor use.\nLet’s do\nThink of a few\nrenewable resources\nand mention how\ntheir stock may get\naffected by overuse.\n“…its all thanks\nto the knowledge,\neducation and\nskill… we could find\na solution…\nthat’s it!\n“Crops ruined\ndue to\ndrought”.\n“Can I find\na solution?”.\nRead and Ponder: Humans are interdependent on\neach other. Farmers provide food grains for every one.\nScientists suggest various means to combat problems\nrelated to agriculture and improve farm production.\nLet’s do\nMake a list of\nfive human made\nresources that you\ncan observe around\nyou.\nDo you know?\nHuman Resource\nrefers to the\nnumber (quantity)\nand abilities\n(mental and\nphysical) of the\npeople. Though,\nthere are differing\nviews regarding\ntreatment of\nhumans as a\nresource, one\ncannot deny the\nfact that it is the\nskills of human that\nhelp in transfering\nthe physical\nmaterial into a\nvaluable resource.\n2021–22",
+      "pdfPage": 11,
+      "hasFigure": false,
+      "subject": "geography",
+      "className": 8
+    }
+  },
+  {
+    "id": "geo8_p12",
+    "metadata": {
+      "chunk_text": "Resources and Development\ntechnology to do so. That is why human\nbeings are a special resource. People\nare human resources. Education and\nhealth help in making people a valuable\nresource. Improving the quality of\npeople’s skills so that they are able\nto create more resources is known as\nhuman resource development.\nConserving Resources\nMona had a nightmare. She dreamt that all\nthe water on the earth had dried up and all the\ntrees cut down. There was no shade and nothing to\neat or drink. People were suffering and roaming around\ndesperately looking for food and shade.\nShe told her mother about the dream. “Amma can this\nreally happen?” she asked.\n“Yes,” Amma replied. “If we are not careful then even\nrenewable resources can become very scarce and the\nnon-renewable ones can definitely get exhausted”. “What\ncan we do about it,” Raju asked. “Lots,” replied Amma.\nUsing resources carefully and giving them time to get\nrenewed is called resource conservation. Balancing\nthe need to use resources and also conserve them for\nthe future is called sustainable development. There\nare many ways of conserving resources. Each person\ncan contribute by reducing consumption, recycling and\nreusing thing. Ultimately it makes a difference because\nall our lives are linked.\nThat evening the children and their friends\nmade packets and shopping bags out of old\nnewspapers, discarded clothes and baskets\nfrom bamboo sticks. “We will give a few to every\nfamily we know,” said Mona. “After all it is for\na very good cause,” said Mustafa, “To save our\nresources and to keep our earth alive”.\n“I am going to be very careful not to waste\npaper,” said Jessy. “Many trees are cut down to\nmake paper,” she explained.\n“I will see that electricity is not wasted in\nmy house,” shouted Mustafa. “Electricity comes\nfrom water and coal.”\nGlossary\nSustainable\nDevelopment\nCarefully utilising\nresources so that\nbesides meeting\nthe requirements\nof the present, also\ntakes care of future\ngenerations.\n2021–22",
+      "pdfPage": 12,
+      "hasFigure": false,
+      "subject": "geography",
+      "className": 8,
+      "bookPage": 4
+    }
+  },
+  {
+    "id": "geo8_p13",
+    "metadata": {
+      "chunk_text": "Resources     5\n“I will make sure that water is not wasted at home,”\nsaid Asha. “Every drop of water is precious”\n“Together we can make a difference!” chorused the\nchildren.\nThese are some of the things Mona, Raju and their\nfriends did. What about you? How are you going to help\nin conserving resources?\nThe future of our planet and its people is linked with\nour ability to maintain and preserve the life support\nsystem that nature provides. Therefore it is our duty to\nensure that :\n•\t all uses of renewable resources are sustainable\n•\t the diversity of life on the earth is conserved\n•\t the damage to natural environmental system is\nminimised.\nSome Principles of\nSustainable Development\nRespect and care for all\nforms of life\nImprove the quality of\nhuman life\nConserve the earth’s\nvitality and diversity\nMinimise the depletion\nof natural resources\nChange personal\nattitude and practices\ntowards the environment\nEnable communities\nto care for their own\nenvironment.\nExercises\n1.\t Answer the following questions.\n(i)\t Why are resources distributed unequally over the earth?\n(ii)\t What is resource conservation?\n(iii)\tWhy are human resources important?\n(iv)\t What is sustainable development?\n2.\t Tick the correct answer.\n(i)\t Which one of the following does NOT make substance a resource?\n(a)\tutility\n(b)\t value\n(c)\tquantity\n(ii) \tWhich one of the following is a human made resource?\n(a) \tmedicines to treat cancer\n(b) spring water\n(c) \ttropical forests\n(iii)\tComplete the statement.\nNon-renewable resources are\n(a)\tthose which have limited stock\n(b)\tmade by human beings\n(c)\tderived from non-living things\n3.\t Activity\n“Rahiman paani raakhiye,\nBin paani sab soon.\n2021–22",
+      "pdfPage": 13,
+      "hasFigure": false,
+      "subject": "geography",
+      "className": 8
+    }
+  },
+  {
+    "id": "geo8_p14",
+    "metadata": {
+      "chunk_text": "Resources and Development\nPaani gaye na ubere\nMoti, manus, choon…”\n[Says Rahim, keep water, as without water there is nothing. Without water\npearl, swan and dough cannot exist. ]\nThese lines were written by the poet Abdur Rahim Khankhana, one of the\nnine gems of Akbar’s court. What kind of resource is the poet referring to?\nWrite in 100 words what would happen if this resource disappeared?\nFor Fun\n1.\t Pretend that you live in the prehistoric times on a high windy plateau. What\nare the uses you and your friends could put the fast winds to? Can you call\nthe wind a resource?\nNow imagine that you are living in the same place in the year 2138. Can\nyou put the winds to any use? How? Can you explain why the wind is an\nimportant resource now?\n2.\t Pick up a stone, a leaf, a paper straw and a twig. Think of how you can use\nthese as resources.  See the example given below and get creative!\nTo play  stapu\ntoy\nAs a paper-weight\ntool\nTo crush spices\ntool\nTo decorate your garden/room\ndecoration piece\nTo open a bottle\ntool\nIn a catapult\nweapon\nYou can use a stone…\nUse/Utility\nYou can use a leaf…\nUse/Utility\n2021–22",
+      "pdfPage": 14,
+      "hasFigure": false,
+      "subject": "geography",
+      "className": 8,
+      "bookPage": 6
+    }
+  },
+  {
+    "id": "geo8_p15",
+    "metadata": {
+      "chunk_text": "In a small village in Tanzania, Africa, Mamba gets up\nvery early in the morning to fetch water. She has to walk\na long way and returns after a few hours. She then helps\nher mother in the house and joins her brothers in taking\ncare of their goats.  All her family owns is a piece of rocky\nland around their small hut. Mamba’s father can barely\ngrow some maize and beans on it after toiling hard. This\nis not enough to feed their family for the whole year.\nPeter lives in the heart of the sheep rearing region in\nNew Zealand where his family runs a wool processing\nfactory. Everyday when he returns from school, Peter\nwatches his uncle taking care of their sheep. Their sheep\nyard is situated on a wide grassy plain with hills in the\nfar distance. It is managed in a scientific way using the\nlatest technology. Peter’s family also grows vegetables\nthrough organic farming.\nMamba and Peter stay in two different parts of the\nworld and lead very different lives. This difference is\nbecause of the differences in the quality of land, soil,\nwater, natural vegetation, animals and the usage of\ntechnology. The availability of such resources is the\nmain reason places differ from each other.\nLand\nLand is among the most important natural resources.\nIt covers only about thirty per cent of the total area of\nthe earth’s surface and all parts of this small percentage\nare not habitable.\nThe uneven distribution of population in different\nparts of the world is mainly due to varied characteristics\nof land and climate. The rugged topography, steep slopes\nof the mountains, low-lying areas susceptible to water\nLet’s do\nObserve the land,\ntype of soil and\nwater availability\nin the region you\nlive. Discuss in\nyour class, how it\nhas influenced the\nlifestyle of people\nthere.\nDo you know?\nNinety per cent\nof the world\npopulation\noccupies only\nthirty per cent of\nland area. The\nremaining seventy\nper cent of the\nland is either\nsparsely populated\nor uninhabited.\nLand,Soil, Water,\nNatural Vegetation\nand Wildlife Resources\n2021–22",
+      "pdfPage": 15,
+      "hasFigure": false,
+      "subject": "geography",
+      "className": 8
+    }
+  },
+  {
+    "id": "geo8_p16",
+    "metadata": {
+      "chunk_text": "Resources and Development\nlogging, desert areas, thick\nforested areas are normally\nsparsely\npopulated\nor\nuninhabited. Plains and river\nvalleys offer suitable land for\nagriculture. Hence, these are\nthe densely populated areas\nof the world.\nLand Use\nLand is used for different\npurposes such as agriculture,\nforestry,\nmining,\nbuilding\nhouses, roads and setting up\nof industries. This is commonly termed as Land use.\nCan you list out the different ways in which Mamba’s\nand Peter’s family use their land?\nThe use of land is determined by physical factors\nsuch as topography, soil, climate, minerals and\navailability of water. Human factors such as population\nand technology are also important determinants of land\nuse pattern.\nLand can also be classified on the basis of ownership\nas – private land and community land. Private land\nis owned by individuals whereas, community land\nis owned by the community for common uses like\ncollection of fodder, fruits, nuts or medicinal herbs.\nThese community lands are also called common\nproperty resources.\nPeople and their demands are ever growing but the\navailability of land is limited. The quality of land also\ndiffers from place to place. People started encroaching\nthe common lands to build up commercial areas,\nhousing complexes in the urban areas and to expand\nthe agricultural land in the rural areas. Today the\nvast changes in the land use pattern also reflect the\ncultural changes in our society. Land degradation,\nlandslides, soil erosion, desertification are the major\nthreats to the environment because of the expansion\nof agriculture and construction activities.\nFig. 2.1: Salzburg in Austria\nNotice in how many ways  the land has been used in the\nabove picture.\nLet’s do\nTalk to some\nelderly person\nin your family or\nneighbourhood and\ncollect information\nabout changes\nin the land use\nover the years, in\nthe place where\nyou live. Display\nyour findings on a\nbulletin board in\nyour classroom.\n2021–22",
+      "pdfPage": 16,
+      "hasFigure": true,
+      "subject": "geography",
+      "className": 8,
+      "bookPage": 8,
+      "imagePath": "db/geography8/figures/page_16.png"
+    }
+  },
+  {
+    "id": "geo8_p17",
+    "metadata": {
+      "chunk_text": "Land, Soil, Water, Natural Vegetation and Wildlife Resources\nConservation of Land Resource\nGrowing population and their ever growing demand has\nled to a large scale destruction of forest cover and  arable\nland and has created a fear of losing this natural resource.\nTherefore, the present rate of degradation of land must\nbe checked. Afforestation, land reclamation, regulated\nuse of chemical pesticide and fertilisers and checks on\novergrazing are some of the common methods used to\nconserve land resources.\nSoil\nThe thin layer of grainy substance covering the surface\nof the earth is called soil. It is closely linked to land.\nLandforms determine the type of soil. Soil is made\nup of organic matter, minerals and weathered rocks\nfound on the earth. This happens through the process\nof weathering. The right mix of minerals and organic\nmatter make the soil fertile.\nFig. 2.2:  Change in land use over time\n1.\n2.\n3.\n4.\nGlossary\nWeathering\nThe breaking\nup and decay of\nexposed rocks,\nby temperature\nchanges, frost\naction, plants,\nanimals and\nhuman activity.\n2021–22",
+      "pdfPage": 17,
+      "hasFigure": true,
+      "subject": "geography",
+      "className": 8,
+      "imagePath": "db/geography8/figures/page_17.png"
+    }
+  },
+  {
+    "id": "geo8_p18",
+    "metadata": {
+      "chunk_text": "Resources and Development\nLandslides\nLandslides are simply defined as the mass movement\nof rock, debris or earth down a slope. They often take\nplace in conjunction with earthquakes, floods and\nvolcanoes. A prolonged spell of rainfall can cause\nheavy landslide that can block the flow of river for\nquite some time. The formation of river blocks can\ncause havoc to the settlements downstream on its\nbursting. In the hilly terrain landslides have been a\nmajor and widely spread natural disaster that often\nstrike life and property and occupy a position of major\nconcern.\nA Case Study\nA massive landslide hit Pangi village near Reckong Peo in Kinnaur district of\nHimachal Pradesh and damaged a 200-meter stretch of old Hindustan-Tibet\nroad, National Highway - 22. This landslide was triggered by intense blasting\nat Pangi village. Due to the blasting this weak zone of slope collapsed and\ncaused intense damage to the road and nearby villages. The Pangi village was\ncompletely vacated to avoid any possible loss of life.\nMitigation Mechanism\nAdvancement in scientific techniques has empowered us to understand what\nfactors cause landslides and how to manage them. Some broad mitigation\ntechniques of landslide are as follows:\n• Hazard mapping to locate areas prone to\nlandslides. Hence, such areas can be avoided\nfor building settlements.\n• Construction of retention wall to stop land from\nslipping.\n• Increase in the vegetation cover to arrest\nlandslide.\n• The surface drainage control works to control\nthe movement of landslide along with rain water\nand spring flows.\nA Landslide\nRetention Wall\n2021–22",
+      "pdfPage": 18,
+      "hasFigure": false,
+      "subject": "geography",
+      "className": 8,
+      "bookPage": 10
+    }
+  },
+  {
+    "id": "geo8_p19",
+    "metadata": {
+      "chunk_text": "Land, Soil, Water, Natural Vegetation and Wildlife Resources\nDo you know?\nIt takes hundreds\nof years to make\njust one centimetre\nof soil.\nFig. 2.4: Factors affecting soil formation\nClimate\nTemperature,\nRainfall influence\nrate of weathering\nand humus\nformation\nTime\nDetermines thickness\nof soil profile\nSoil\nFlora, Fauna and\nMicro-organism\nAffect the rate of humus\nformation\nRelief\nAltitude and\nslope, determine\naccumulation\nof soil\nParent Rock\nDetermines colour,\ntexture, chemical\nproperties\nmineral, content,\npermeability\nFig. 2.3: Soil Profile\nTop soil with humus and\nvegetation\nSub soil with sand, silt and\nclay\nWeathered rock material\nParent rock\nFactors of Soil Formation\nThe major factors of soil formation are the nature of\nthe parent rock and climatic factors. Other factors are\nthe topography, role of organic material and time taken\nfor the composition of soil formation. All these differ\nfrom place to place.\n2021–22",
+      "pdfPage": 19,
+      "hasFigure": true,
+      "subject": "geography",
+      "className": 8,
+      "imagePath": "db/geography8/figures/page_19.png"
+    }
+  },
+  {
+    "id": "geo8_p20",
+    "metadata": {
+      "chunk_text": "Resources and Development\nDegradation of Soil and Conservation\nMeasures\nSoil erosion and depletion are the major threats to soil\nas a resource. Both human and natural factors can\nlead to degradation of soils. Factors which lead to soil\ndegradation are deforestation, overgrazing, overuse of\nchemical feritilisers or pesticides, rain wash, landslides\nand floods.\nSome methods of soil conservation are listed below:\nMulching: The bare ground between plants is covered\nwith a layer of organic matter like straw. It helps to\nretain soil moisture.\nContour barriers:\t Stones, grass, soil are used to build\nbarriers along contours. Trenches are made in front of\nthe barriers to collect water.\nRock dam: Rocks are piled up to slow down the flow of\nwater. This prevents gullies and further soil loss.\nFig 2.6: Contour Ploughing\nActivity\nIn India soils\ncould be alluvial,\nblack, red, laterite,\ndesertic and\nmountain soil.\nCollect a handful\nof different\ntypes of soil and\nobserve. How are\nthey different?\nTerrace farming: Broad flat steps or terraces are\nmade on the steep slopes so that flat surfaces are\navailable to grow crops. They reduce surface run-\noff and soil erosion (Fig. 2.5).\nIntercropping: Different crops are grown in alternate\nrows and are sown at different times to protect the\nsoil from rain wash.\nContour ploughing: Ploughing parallel to the\ncontours of a hill slope to form a natural barrier\nfor water to flow down the slope (Fig. 2.6).\nShelter belts: In the coastal and dry regions, rows\nof trees are planted to check the wind movement to\nprotect soil cover (Fig. 2.7).\nFig 2.5: Terrace Farming\nFig 2.7: Shelter Belts\n2021–22",
+      "pdfPage": 20,
+      "hasFigure": true,
+      "subject": "geography",
+      "className": 8,
+      "bookPage": 12,
+      "imagePath": "db/geography8/figures/page_20.png"
+    }
+  },
+  {
+    "id": "geo8_p21",
+    "metadata": {
+      "chunk_text": "Land, Soil, Water, Natural Vegetation and Wildlife Resources\nWater\nWater is a vital renewable natural resource. Three-\nfourth’s of the earth’s surface is covered with water.\nIt is therefore appropriately called the ‘water planet’.\nIt was in the primitive oceans that life began almost\n3.5 billion years back. Even today, the oceans cover\ntwo-thirds of the earth’s surface and support a rich\nvariety of plant and animal life. The ocean water is\nhowever saline and not fit for human consumption.\nFresh water accounts for only about 2.7 per cent. Nearly\n70 per cent of this occurs as ice sheets and glaciers in\nAntarctica, Greenland and mountain regions. Due to\ntheir location they are inaccessible. Only 1 per cent of\nfreshwater is available and fit for human use. It is found\nas ground water, as surface water in rivers and lakes\nand as water vapour in the atmosphere.\nFresh water is therefore, the most precious substance\non earth. Water can neither be added nor subtracted\nfrom the earth. Its total volume remains constant.\nIts abundance only seems to vary because it is in\nconstant motion, cycling through the oceans, the\nair, the land and back again, through the processes\nof evaporation, precipitation and run-off. This as\nyou already know is referred to as the ‘water cycle’.\nDo you know?\nIn 1975, the\nconsumption of\nwater for human\nuse was 3850cu\nkm/year. It soared\nto more than 6000\ncu km/year in the\nyear 2000.\nActivity\nTake two trays A and B of same\nsize. Make six holes at one end\nof these trays and then fill them\nwith the same amount of soil.\nLeave the soil in tray A bare while\nsow wheat or rice grains in tray\nB. When the grain in tray B has\ngrown a few centimetres high,\nplace both the trays in such a\nway that they are on a slope.\nPour one mug of water from\nthe same height into each tray.\nCollect the muddy water that\ntrickles down the holes of both\ntrays in two separate containers\nand compare how much soil\nis washed out of each tray?\nDo you know?\nA dripping tap\nwastes1200\nlitres of water in\na year.\nA\nB\n2021–22",
+      "pdfPage": 21,
+      "hasFigure": false,
+      "subject": "geography",
+      "className": 8
+    }
+  },
+  {
+    "id": "geo8_p22",
+    "metadata": {
+      "chunk_text": "Resources and Development\nHumans use huge amounts of water not only for\ndrinking and washing but also in the process of\nproduction.\nWater\nfor\nagriculture,\nindustries,\ngenerating\nelectricity\nthrough reservoirs of\ndams are the other\nusages.\nIncreasing\npopulation,\nrising\ndemands for food and\ncash crops, increasing\nurbanisation and rising\nstandards\nof\nliving\nare the major factors\nleading to shortages in\nsupply of fresh water\neither due to drying\nup of water sources or\nwater pollution.\nProblems of Water Availability\nThere is scarcity of water in many regions of the world.\nMost of Africa, West Asia, South Asia, parts of western\nUSA, north-west Mexico, parts of South America and\nentire Australia are facing shortages in fresh water supply.\nCountries located in climatic zones most susceptible to\ndroughts face great problems of water scarcity. Thus,\nwater shortage may be a consequence of variation in\nseasonal or annual precipitation or the scarcity is caused\nby over-exploitation and contamination of water sources.\nConservation of Water\nResources\nAccess to clean and adequate water\nsources is a major problem facing the\nworld today. Steps have to be taken to\nconserve this dwindling resource. Even\nthough water is a renewable resource, its\noveruse and pollution make it unfit for\nuse. Discharge of untreated or partially\ntreated sewage, agricultural chemicals\nand industrial effluents in water bodies\nare major contaminants. They pollute\nwater with nitrates, metals and pesticides.\nDo you know?\nHave you ever\nheard about a water\nmarket? Amreli\ncity in Saurastra\nregion with a\npopulation of 1.25\nlakhs is completely\ndependent on\npurchasing water\nfrom the nearby\ntalukas.\nActivity\nAn average urban Indian uses about 150 litres\nof water every day.\nUse\nLitres per person per day\nDrinking\nCooking\nBathing\nFlushing\nWashing clothes\nWashing utensils\nGardening\nTotal\nCan you suggest some ways to bring down this amount?\nFig 2.8: River Yamuna is getting polluted due\nto sewage, industrial effluents and garbage\n2021–22",
+      "pdfPage": 22,
+      "hasFigure": true,
+      "subject": "geography",
+      "className": 8,
+      "bookPage": 14,
+      "imagePath": "db/geography8/figures/page_22.png"
+    }
+  },
+  {
+    "id": "geo8_p23",
+    "metadata": {
+      "chunk_text": "Land, Soil, Water, Natural Vegetation and Wildlife Resources\nMost of these chemicals are non-biodegradable and\nreach human bodies through water. Water pollution can\nbe controlled by treating these effluents suitably before\nreleasing them in water bodies.\nForest and other vegetation cover slow the\nsurface runoff and replenish underground\nwater. Water harvesting is another method\nto save surface runoff. The canals used\nfor irrigating field should be properly\nlined to minimise losses by water seepage.\nSprinklers effectively irrigate the area by\nchecking water losses through seepage and\nevaporation. In dry regions with high rates\nof evaporation, drip or trickle irrigation is\nvery useful. The valuable water resource\ncan therefore be conserved by adopting\nthese means of irrigation.\nNatural Vegetation and Wildlife\nSome school children were visiting an exhibition on\nhandicrafts. The articles in the exhibition were collected\nfrom different parts of the country. Mona picked up a bag\nand exclaimed, “This is a beautiful handbag!” “Yes, it\nis made from Jute,” the teacher said. “Do you see those\nbaskets, lamp shades and chairs? Those are made of\ncanes and bamboos. In the eastern and north eastern\nhumid regions of India, bamboo grows in plenty.” Jassy\nwas excited to see a silk scarf.  “See this beautiful\nscarf”. The teacher explained that silk is obtained from\nsilk worms that are bred on Mulberry trees. The children\nunderstood that plants provide us with many different\nproducts that we use in our day-to-day life.\nNatural vegetation and wildlife exist only\nin the narrow zone of contact between the\nlithosphere, hydrosphere and atmosphere\nthat we call biosphere. In the biosphere living\nbeings are inter-related and interdependent\non each other for survival. This life supporting\nsystem is known as the ecosystem. Vegetation\nand wildlife are valuable resources. Plants\nprovide us with timber, give shelter to animals,\nproduce oxygen we breathe, protects soils so\nDo you know?\nRain water\nharvesting is\nthe process of\ncollecting rain\nwater from roof\ntops and directing\nit to an appropriate\nlocation where\nit is stored for\nfuture use. On an\naverage, one spell\nof  rain for two\nhours is enough to\nsave 8,000 litres of\nwater.\nFig 2.10: Silk Worms\nFig 2.9: A Water Sprinkler\n2021–22",
+      "pdfPage": 23,
+      "hasFigure": true,
+      "subject": "geography",
+      "className": 8,
+      "imagePath": "db/geography8/figures/page_23.png"
+    }
+  },
+  {
+    "id": "geo8_p24",
+    "metadata": {
+      "chunk_text": "Resources and Development\nessential for growing crops,\nact as shelter belts, help\nin storage of underground\nwater, give us fruits, nuts,\nlatex, turpentine oil, gum,\nmedicinal plants and also\nthe paper that is so essential\nfor your studies. There are\ninnumerable uses of plants\nand you can add some more.\nWildlife includes animals,\nbirds, insects as well as the\naquatic life forms. They provide\nus milk, meat, hides and wool.\nInsects like bees provide us\nhoney, help in pollination of\nflowers and have an important\nrole to play as decomposers\nin the ecosystem. The birds\nfeed on insects and act as\ndecomposers as well. Vulture\ndue to its ability to feed on dead\nlivestock is a scavenger and\nconsidered a vital cleanser of\nthe environment. So animals\nbig or small, all are integral\nto maintaining balance in\nthe ecosystem.\nDistribution of Natural Vegetation\nThe growth of vegetation depends primarily on\ntemperature and moisture. The major vegetation\ntypes of the world are grouped as forests,\ngrasslands, scrubs and tundra.\nIn areas of heavy rainfall, huge trees\nmay thrive. The forests are thus associated\nwith areas having abundant water supply.\nAs the amount of moisture decreases the\nsize of trees and their density reduces.\nShort stunted trees and grasses grow in\nthe regions of moderate rainfall forming the\ngrasslands of the world. Thorny shrubs and\nDo you know?\nVultures in\nthe Indian\nsubcontinent were\ndying of kidney\nfailure shortly\nafter scavenging\nlivestock treated\nwith diclofenac, a\npainkiller that is\nsimilar to aspirin\nor ibuprofen.\nEfforts are on to\nban the drug for\nlivestock use and\nbreed vultures in\ncaptivity.\nFig 2.11: Brahma Kamal\na Medicinal Herb\nFig 2.12: A Blue Kingfisher\nFig. 2.13: Grassland and Forest\n2021–22",
+      "pdfPage": 24,
+      "hasFigure": true,
+      "subject": "geography",
+      "className": 8,
+      "bookPage": 16,
+      "imagePath": "db/geography8/figures/page_24.png"
+    }
+  },
+  {
+    "id": "geo8_p25",
+    "metadata": {
+      "chunk_text": "Land, Soil, Water, Natural Vegetation and Wildlife Resources\nscrubs grow in dry areas of low rainfall.\nIn such areas plants have deep roots and\nleaves with thorny and waxy surface\nreduce\nloss\nof\nmoisture\nthrough\ntranspiration. Tundra vegetation of\ncold Polar Regions comprise of mosses\nand lichens.\nToday there are many more people in\nthe world than there were two centuries\nback. To feed the growing numbers,\nlarge areas of forests have been cleared\nto grow crops. Forest cover all over the\nworld is vanishing rapidly. There\nis an urgent need to conserve\nthis valuable resource.\nConservation of Natural\nVegetation and Wildlife\nForests are our wealth. Plants\ngive shelter to the animals and\ntogether\nthey\nmaintain\nthe\necosystem. Changes of climate\nand human interferences can\ncause the loss of natural habitats\nfor the plants and animals. Many\nspecies have become vulnerable\nor endangered and some are\non the verge of extinction. Deforestation,\nsoil erosion, constructional activities, forest\nfires, tsunami and landslides are some of the\nhuman and natural factors which  accelerate\nthe process of extinction of these resources.\nOne of the major concerns is the poaching\nwhich result in a sharp decline in the number\nof particular species. The animals are poached\nfor collection and illegal trade of hides, skins,\nnails, teeth, horns as well as feathers. Some\nof these animals are tiger, lion, elephant,\ndeer, black buck, crocodile, rhinoceros, snow\nFig. 2.14: A Python in a forest\nFig. 2.15: A collage of a forest made by school students\nFig. 2.16: Loss of rainforest in\nGreat Nicobar after Tsunami\n2021–22",
+      "pdfPage": 25,
+      "hasFigure": true,
+      "subject": "geography",
+      "className": 8,
+      "imagePath": "db/geography8/figures/page_25.png"
+    }
+  },
+  {
+    "id": "geo8_p26",
+    "metadata": {
+      "chunk_text": "Resources and Development\nleopard, ostrich and peacock. These can be\nconserved by increasing awareness.\nNational\nparks,\nwildlife\nsanctuaries,\nbiosphere reserves are made to protect our\nnatural vegetation and wildlife. Conservation\nof creeks, lakes, and wetlands is necessary to\nsave the precious resource from depletion\nThere is a balance in the environment\nif the relative number of species is not\ndisturbed. Human activities in several parts\nof the world have disturbed the natural\nFig. 2.17: Black buck also needs protection\nForest Fire\nActivity\nRead the news item and find out how fire started in California ? Could it be avoided?\nKnow More\nForest fire is a threat to the entire region of fauna and flora. It occurs mainly due to\nthree reasons :\n1.\t Natural fire due to lightening etc.\n2.\t Fire due to heat generated in the litter due to carelessness of people.\n3.\t Fire purposely caused by local inhabitants, mischief makers, miscreants etc.\nSome Control Measures\n1.\t Prevention of fires through education.\n2.\t Prompt detection of fires through well co-ordinated network of observation points,\nefficient ground patroling and communication network.\n2021–22",
+      "pdfPage": 26,
+      "hasFigure": true,
+      "subject": "geography",
+      "className": 8,
+      "bookPage": 18,
+      "imagePath": "db/geography8/figures/page_26.png"
+    }
+  },
+  {
+    "id": "geo8_p27",
+    "metadata": {
+      "chunk_text": "Land, Soil, Water, Natural Vegetation and Wildlife Resources\nGlossary\nBiosphere reserves\nSeries of protected\nareas linked\nthrough a global\nnetwork, intended\nto demonstrate\nthe relationship\nbetween\nconservation and\ndevelopment.\nGlossary\nNational Park\nA natural area\ndesignated to\nprotect the\necological integrity\nof one or more\necosystems for the\npresent and  the\nfuture generations\nDo you know?\nCITES (the Convention on International Trade in Endangered Species\nof Wild Fauna and Flora) is an international agreement between\ngovernments. It aims to ensure that international trade in specimens of\nwild animals and plants does not threaten their survival. Roughly 5,000\nspecies of animals and 28,000 species of plants are protected. Bears,\ndolphins, cacti, corals, orchids and aloes are some examples.\nhabitats of many species. Due to indiscriminate killings,\nseveral birds and animals have either become extinct or\nare on the verge of extinction.\nAwareness programmes like social forestry and\nVanamohatasava should be encouraged at the regional\nand community level. School children should be\nencouraged to bird watch and visit nature camps so\nthat they appreciate the habitat of varied species.\nMany countries have passed laws against the trade\nas well as killing of birds and animals. In India, killing\nlions, tigers, deers, great Indian bustards and peacocks\nis illegal.\nAn international convention CITES has\nbeen established that lists several species\nof animals and birds in which trade is\nprohibited. Conservation of plants and\nanimals is an ethical duty of every citizen.\nFig. 2:18: A Herd of Cheetals\nFig. 2:19: A herd of Elephants in Kaziranga\nNational Park\n2021–22",
+      "pdfPage": 27,
+      "hasFigure": false,
+      "subject": "geography",
+      "className": 8
+    }
+  },
+  {
+    "id": "geo8_p28",
+    "metadata": {
+      "chunk_text": "Resources and Development\nExercises\n1.\t Answer the following questions.\n(i) \tWhich are the two main climatic factors responsible for soil formation?\n(ii)\t Write any two reasons for land degradation today.\n(iii) Why is land considered an important resource?\n(iv)\t Name any two steps that government has taken to conserve plants\nand animals.\n(v)\t Suggest three ways to conserve water.\n2.\t Tick the correct answer.\n(i)\t Which one of the following is NOT a factor of soil formation?\n(a) time\n(b) soil texture\n(c)\t organic matter\n(ii)\tWhich one of the following methods is most appropriate to check\nsoil erosion on steep slopes?\n(a)  shelter belts\n(b)\t mulching\n(c)\t terrace cultivation\n(iii)\tWhich one of the following is NOT in favour of the conservation\nof nature?\n(a)  switch off the bulb when not in use\n(b) close the tap immediately after using\n(c)  dispose polypacks after shopping\n3.\t Match the followings :\n(i)\t Land use\n(a)\t prevent soil erosion\n(ii)\t Humus\n(b)\t narrow zone of contact between the lithosphere,\nhydrosphere and atmosphere\n(\tiii)\t Rock dams\n(c)\t productive use of land\n(iv)\t Biosphere\n(d)\t organic matter deposited on top soil\n(e)\t contour ploughing\n4.\t State whether the given statement is true or false.\nIf true, write the reasons.\n(i)\t Ganga–Brahmaputra plain of India is an overpopulated region.\n(ii)\t Water availability per person in India is declining.\n(iii)\t Rows of trees planted in the coastal areas to check the wind\nmovement is called intercropping.\n(iv)\t Human interference and changes of climate can maintain the\necosystem.\n5.\t Activity\nDiscuss some more reasons which are responsible for changes of land use pattern.\nHas your place undergone any change in the land use pattern in recent years?\n2021–22",
+      "pdfPage": 28,
+      "hasFigure": false,
+      "subject": "geography",
+      "className": 8,
+      "bookPage": 20
+    }
+  },
+  {
+    "id": "geo8_p29",
+    "metadata": {
+      "chunk_text": "Land, Soil, Water, Natural Vegetation and Wildlife Resources\nFind out from your parents and elderly people. You can conduct an interview by\nasking the following questions.\nPlace\nWhen your\ngrand\nparent’s were\nin their 30’s\nWhen your\nparents were\nin their 30’s\nWhy do you\nthink this is\nhappening?\nAre common\nareas and\nopen spaces\ndisappearing?\nRural\nNumber of\ncattle and\npoultry owned\nNumber of\ntrees and\nponds in the\nvillage\nMain\noccupation of\nthe head of\nthe family\nUrban\nNumber of\ncars owned\nNumber of\nrooms in the\nhouse\nNumber of\nmetalled\nroads\nNumber of\nflyovers in the\ncity\nNumber of\nparks and\nplaygrounds\nBased on the table you have just completed, draw a picture of land use patterns\nthat you foresee in your neighbourhood after 20 years. Why do you think that land\nuse patterns change over the years?\n2021–22",
+      "pdfPage": 29,
+      "hasFigure": false,
+      "subject": "geography",
+      "className": 8
+    }
+  },
+  {
+    "id": "geo8_p30",
+    "metadata": {
+      "chunk_text": "Kiri was visiting Sukant in his\nnative place near Dhanbad. Kiri\nwas amazed to see that large\nareas were black. “Sukant, why\nis this place so black and dusty?”\nshe asked. “This is because of the\ncoal mines nearby. Do you see\nthe trucks? They are carrying the\nmineral coal”, replied Sukant.\n“What are minerals?,” asked\nKiri.\nSukant\nreplied,\n“Have\nyou ever seen a baker baking\nbiscuits? The flour, milk, sugar\nand sometimes eggs are mixed\ntogether. While eating the baked biscuits can you see\nthese ingredients separately? Just as in the biscuits,\nthere are a number of things that you cannot see,\nrocks on this earth have several materials called\nminerals mixed in them. These minerals are scattered\nthroughout the earth’s rocky crust”.\nA naturally occurring substance that has a definite\nchemical composition is a mineral. Minerals are not\nevenly distributed over space. They are concentrated in\na particular area or rock formations. Some minerals are\nfound in areas which are not easily accessible such as\nthe Arctic ocean bed and Antarctica.\nMinerals are formed in different types of geological\nenvironments, under varying conditions. They are\ncreated by natural processes without any human\ninterference. They can be identified on the basis of their\nphysical properties such as colour, density, hardness\nand chemical property such as solubility.\nDo you know?\nThe salt in your\nfood and graphite in\nyour pencil are also\nminerals.\nMineral and\nPower Resources\nFig. 3.1: Loading of a truck in\na coal mine\n2021–22",
+      "pdfPage": 30,
+      "hasFigure": true,
+      "subject": "geography",
+      "className": 8,
+      "imagePath": "db/geography8/figures/page_30.png"
+    }
+  },
+  {
+    "id": "geo8_p31",
+    "metadata": {
+      "chunk_text": "Do you know?\nA rock is an\naggregate of one or\nmore minerals but\nwithout definite\ncomposition of\nconstituent of\nmineral. Rocks\nfrom which\nminerals are mined\nare known as ores.\nAlthough more\nthan 2,800 types\nof minerals have\nbeen identified,\nonly about 100\nare considered ore\nminerals.\nTypes of Minerals\nThere are over three thousand different minerals.\nOn the basis of composition, minerals are classified\nmainly as metallic and non-metallic minerals (Fig. 3.2).\nMinerals\nMetallic\nFerrous\nNon-metallic\nNon-ferrous\nFig. 3.2: Classification of Minerals\nExtraction of Minerals\nMining\nOpen cast\nmining\nDrilling\nShaft\nmining\nQuarrying\nFig. 3.3: Extraction of Minerals\nMetallic minerals contain metal in raw form. Metals are\nhard substances that conduct heat and electricity and\nhave a characteristic lustre or shine. Iron ore, bauxite,\nmanganese ore are some examples. Metallic minerals\nmay be fer rous or non-ferrous. Ferrous minerals like\niron ore, manganese and chromites contain iron. A\nnon-ferrous mineral does not contain iron but may contain\nsome other metal such as gold, silver, copper or lead.\nNon-metallic minerals do not contain metals.\nLimestone, mica and gypsum are examples of such\nminerals. The mineral fuels like coal and petroleum are\nalso non-metallic minerals.\nMinerals can be extracted by mining, drilling or\nquarrying (Fig 3.3).\nThe process of taking out minerals from rocks buried\nunder the earth’s surface is called mining. Minerals that\nlie at shallow depths are taken out by removing the surface\nlayer; this is known as open-cast mining. Deep bores, called\nshafts, have to be made to reach mineral deposits that lie\nat great depths. This is called shaft mining. Petroleum\nand natural gas occur far below the earth’s surface. Deep\nwells are bored to take them out, this is called drilling\n(Fig 3.4). Minerals that lie near the surface are simply dug\nout, by the process known as quarrying.\nFig. 3.4: Off shore\ndrilling of oil\nMineral and Power Resources     23\n2021–22",
+      "pdfPage": 31,
+      "hasFigure": true,
+      "subject": "geography",
+      "className": 8,
+      "imagePath": "db/geography8/figures/page_31.png"
+    }
+  },
+  {
+    "id": "geo8_p32",
+    "metadata": {
+      "chunk_text": "Resources and Development\nDistribution of Minerals\nMinerals occur in different types of rocks. Some are\nfound in igneous rocks, some in metamorphic rocks\nwhile others occur in sedimentary rocks. Generally,\nmetallic minerals are found in igneous and metamorphic\nrock formations that form large plateaus. Iron-ore in\nnorth Sweden, copper and nickel deposits in Ontario,\nCanada, iron, nickel, chromites and platinum in South\nAfrica are examples of minerals found in igneous and\nmetamorphic rocks. Sedimentary rock formations of\nplains and young fold mountains contain non-metallic\nminerals like limestone. Limestone deposits of Caucasus\nregion of France, manganese deposits of Georgia and\nUkraine and phosphate beds of Algeria are some\nexamples. Mineral fuels such as coal and petroleum are\nalso found in the sedimentary strata.\nAsia\nChina and India have large iron ore deposits.\nThe continent produces more than half of the world’s tin.\nDo you know?\nYou can always tell\nif a rock contains\ncopper because\nthen the rock looks\nblue in colour.\nFig. 3.5: World: Distribution of Iron, Copper and Bauxite\n2021–22",
+      "pdfPage": 32,
+      "hasFigure": true,
+      "subject": "geography",
+      "className": 8,
+      "bookPage": 24,
+      "imagePath": "db/geography8/figures/page_32.png"
+    }
+  },
+  {
+    "id": "geo8_p33",
+    "metadata": {
+      "chunk_text": "Mineral and Power Resources     25\nDo you know?\nSwitzerland has\nno known mineral\ndeposit in it.\nLet’s do\nIdentify the\nCanadian Shield,\nthe Appalachians,\nWestern Cordilleras\nand Lake Superior\nwith the help of an\natlas.\nChina, Malaysia and Indonesia are among the world’s\nleading tin producers. China also leads in production of\nlead, antimony and tungsten. Asia also has deposits of\nmanganese, bauxite, nickel, zinc and copper.\nEurope\nEurope is the leading producer of iron-ore in the world.\nThe countries with large deposits of iron ore are Russia,\nUkraine, Sweden and France. Minerals deposits of\ncopper, lead, zinc, manganese and nickel are found in\neastern Europe and European Russia.\nNorth America\nThe mineral deposits in North America are located in\nthree zones: the Canadian region north of the Great\nLakes, the Appalachian region and the mountain ranges\nof the west. Iron ore, nickel, gold, uranium and copper\nare mined in the Canadian Shield Region, coal in the\nAppalachians region. Western Cordilleras have vast\ndeposits of copper, lead, zinc, gold and silver.\nFig 3.6: World: Distribution of Mineral Oil and Coal\n2021–22",
+      "pdfPage": 33,
+      "hasFigure": true,
+      "subject": "geography",
+      "className": 8,
+      "imagePath": "db/geography8/figures/page_33.png"
+    }
+  },
+  {
+    "id": "geo8_p34",
+    "metadata": {
+      "chunk_text": "Resources and Development\nSouth America\nBrazil is the largest producer of high grade iron-ore\nin the world. Chile and Peru are leading producers of\ncopper. Brazil and Bolivia are among the world’s largest\nproducers of tin. South America also has large deposits of\ngold, silver, zinc, chromium, manganese, bauxite, mica,\nplatinum, asbestos and diamond. Mineral oil is found in\nVenezuela, Argentina, Chile, Peru and Columbia.\nAfrica\nAfrica is rich in mineral resources. It is the world’s\nlargest producer of diamonds, gold and platinum. South\nAfrica, Zimbabwe and Zaire produce a large portion of\nthe world’s gold. The other minerals found in Africa\nare copper, iron ore, chromium, uranium, cobalt and\nbauxite. Oil is found in Nigeria, Libya and Angola.\nAustralia\nAustralia is the largest producer of bauxite in the world.\nIt is a leading producer of gold, diamond, iron ore, tin\nand nickel. It is also rich in copper, lead, zinc and\nmanganese. Kalgoorlie and Coolgardie areas of  western\nAustralia have the largest deposits of gold.\nAntarctica\nThe geology of Antarctica is sufficiently well known to\npredict the existence of a variety of mineral deposits,\nsome probably large. Significant size of deposits of\ncoal in the Transantarctic Mountains and iron near\nthe Prince Charles Mountains of East Antarctica is\nforecasted. Iron ore, gold, silver and oil are also present\nin commercial quantities.\nUses of Minerals\nMinerals are used in many industries. Minerals which\nare used for gems are usually hard. These are then\nset in various styles for jewellery. Copper is another\nmetal used in everything from coins to pipes. Silicon,\nused in the computer industry is obtained from quartz.\nAluminum obtained from its ore bauxite is used in\nautomobiles and airplanes, bottling industry, buildings\nand even in kitchen cookware.\nDo you know?\n• A green\ndiamond is the\nrarest diamond.\n• The oldest rocks\nin the world\nare in Western\nAustralia. They\ndate from 4,300\nmillion years\nago, only 300\nmillion years\nafter the earth\nwas formed.\nLet’s do\nList uses of any\nfive minerals.\n2021–22",
+      "pdfPage": 34,
+      "hasFigure": false,
+      "subject": "geography",
+      "className": 8,
+      "bookPage": 26
+    }
+  },
+  {
+    "id": "geo8_p35",
+    "metadata": {
+      "chunk_text": "Mineral and Power Resources     27\nConservation of Minerals\nMinerals are a non-renewable resource. It takes\nthousands of years for the formation and concentration\nof minerals. The rate of formation is much smaller than\nthe rate at which the humans consume these minerals.\nIt is necessary to reduce wastage in the process of\nmining. Recycling of metals is another way in which the\nmineral resources can be conserved.\nPower Resources\nSunny’s mother begins her day by switching on the\ngeyser. She irons Sunny’s school uniform before waking\nhim up. She then rushes to the kitchen to prepare a glass\nof orange juice for him in the blender.\n“Sunny, have you finished taking bath? Come and\nhave your breakfast”, calls out mother while preparing\nbreakfast on the gas stove for Sunny.\nWhile going to school Sunny forgets to switch off\nlights and fans. When mother switches them off she\nthinks that life in the cities may be more comfortable, but\nits dependency on more and more gadgets all of which\nconsume energy has led to a wide gap between the\ndemand and the supply. With the advent of science and\ntechnology the life styles are changing very fast.\nPower or energy plays a vital role in our lives. We also need\npower for industry, agriculture, transport, communication\nand defense. Power resources may be broadly categorised\nas conventional and non-conventional resources.\nConventional Sources\nConventional sources of energy are those which have\nbeen in common use for a long time. Firewood and fossil\nfuels are the two main conventional energy sources.\nFirewood\nIt is widely used for cooking and heating. In our country\nmore than fifty per cent of the energy used by villagers\ncomes from fire wood.\nRemains of plants and animals which were buried\nunder the earth for millions of years got converted by the\nheat and pressure into fossil fuels. Fossil fuel such as\ncoal, petroleum and natural gas are the main sources of\nThink and Act\nRecycle\nReduce\nReuse\nMinerals\nFig. 3.7: National Power\nGrid to supply Electricity\n2021–22",
+      "pdfPage": 35,
+      "hasFigure": true,
+      "subject": "geography",
+      "className": 8,
+      "imagePath": "db/geography8/figures/page_35.png"
+    }
+  },
+  {
+    "id": "geo8_p36",
+    "metadata": {
+      "chunk_text": "Resources and Development\nconventional energy. The reserves of these minerals are\nlimited. The rate at which the growing world population\nis consuming them is far greater than the rate of their\nformation. So, these are likely to be exhausted soon.\nCoal\nThis is the most abundantly found fossil fuel. It is used\nas a domestic fuel, in industries such as iron and steel,\nsteam engines and to generate electricity. Electricity\nfrom coal is called thermal power.  The coal which we\nare using today was formed millions of years ago\nwhen giant ferns and swamps got buried under the\nlayers of earth. Coal is therefore referred to as\nBuried Sunshine.\nThe leading coal producers of the world are\nChina, USA, Germany, Russia, South Africa\nand France. The coal producing areas of India\nare Raniganj, Jharia, Dhanbad and Bokaro in\nJharkhand.\nFig 3.8: Conventional Sources of Energy\nFig 3.10: A view of a Thermal\nPower Station\nFig 3.9: A woman\ncarrying firewood in\nNorth East India\n2021–22",
+      "pdfPage": 36,
+      "hasFigure": true,
+      "subject": "geography",
+      "className": 8,
+      "bookPage": 28,
+      "imagePath": "db/geography8/figures/page_36.png"
+    }
+  },
+  {
+    "id": "geo8_p37",
+    "metadata": {
+      "chunk_text": "Mineral and Power Resources     29\nPetroleum\nThe petrol that keeps your car running as well as\nthe oil that keeps your cycle from squeaking, both\nbegan as a thick black liquid called\nPetroleum. It is found between the\nlayers of rocks and is drilled from\noil fields located in off-shore and\ncoastal areas. This is then sent to\nrefineries which process the crude\noil and produce a variety of products\nlike diesel, petrol, kerosene, wax,\nplastics and lubricants. Petroleum\nand its derivatives are called Black\nGold as they are very valuable. The\nchief petroleum producing countries are Iran, Iraq,\nSaudi Arabia and Qatar. The other major producers\nare USA, Russia, Venezuela, and Algeria. The leading\nproducers in India are Digboi in Assam, Bombay\nHigh in Mumbai and the deltas of Krishna and\nGodavari rivers.\nNatural Gas\nNatural gas is found with petroleum deposits and is\nreleased when crude oil is brought to the surface. It\ncan be used as a domestic and industrial fuel. Russia,\nNorway, UK and the Netherlands are the major producers\nof natural gas.\nIn India Jaisalmer, Krishna Godavari delta, Tripura\nand some areas off shore in Mumbai have natural gas\nresources. Very few countries in the world have sufficient\nnatural gas reserves of their own.\nThe sharp increase in our consumption of fossil fuels\nhas led to their depletion at an alarming rate.  The toxic\npollutants released from burning these fuels are also a\ncause for concern. Unchecked burning of fossil fuel is\nlike an unchecked dripping tap which will eventually\nrun dry. This has led to the tapping of various non-\nconventional sources of energy that are cleaner\nalternatives to fossil fuels.\nWord Origin\nThe word\npetroleum is\nderived from\nLatin words\n–Petra meaning\nrock, oleum\nmeaning oil. So,\npetroleum means\nrock oil.\nFig 3.11: Crude Oil\nDo you know?\nCompressed\nnatural gas (CNG)\nis a popular eco-\nfriendly automobile\nfuel as it causes\nless pollution than\npetroleum and\ndiesel.\n2021–22",
+      "pdfPage": 37,
+      "hasFigure": true,
+      "subject": "geography",
+      "className": 8,
+      "imagePath": "db/geography8/figures/page_37.png"
+    }
+  },
+  {
+    "id": "geo8_p38",
+    "metadata": {
+      "chunk_text": "Resources and Development\nHydel Power\nRain water or river water stored in dams is made to\nfall from heights. The falling water flows through pipes\ninside the dam over turbine blades placed at the bottom\nof the dam. The moving blades then turn the generator\nto produce electricity. This is called hydro electricity.\nThe water discharged after the generation of electricity is\nused for irrigation. One fourth of the world’s electricity is\nproduced by hydel power. The leading producers of hydel\npower in the world are Paraguay, Norway, Brazil, and\nChina. Some important hydel power stations in India\nare Bhakra Nangal, Gandhi Sagar, Nagarjunsagar and\nDamodar valley projects.\nWater\nreservoir\nTurbine\nGenerator\nFig. 3.12: Hydel Power\nDo you know?\nNorway was the\nfirst country in the\nworld to devlop\nhydroelectricity.\nFig. 3.13: Salal Hydroelectric\nProject Jammu and Kashmir\nNon-conventional Sources of Energy\nThe increasing use of fossil fuels is leading to its shortage.\nIt is estimated that if the present rate of consumption\ncontinues, the reserves of these fuel will get exhausted.\nMoreover, their use also causes environmental\npollution. Therefore, there is need for using non-\nconventional sources such as solar energy, wind\nenergy, tidal energy which are renewable.\nSolar energy\nSun’s heat and light energy can be felt by us every\nday. Solar energy trapped from the sun can be used\nin solar cells to produce electricity. Many of these\ncells are joined into solar panels to generate\nDo you know?\nThe site of the\nworld’s first solar\nand wind powered\nbus shelter  is in\nScotland.\n2021–22",
+      "pdfPage": 38,
+      "hasFigure": true,
+      "subject": "geography",
+      "className": 8,
+      "bookPage": 30,
+      "imagePath": "db/geography8/figures/page_38.png"
+    }
+  },
+  {
+    "id": "geo8_p39",
+    "metadata": {
+      "chunk_text": "Mineral and Power Resources     31\npower for heating and lighting purpose. The\ntechnology of utilising solar energy benefits a\nlot of tropical countries that are blessed with\nabundant sun shine. Solar energy is also used\nin solar heaters, solar cookers, solar dryers\nbesides being used for community lighting and\ntraffic signals.\nWind Energy\nWind is an inexhaustible source of energy. Wind\nmills have been used for grinding grain and\nlifting water since times immemorial. In modern time wind\nmills, the high speed winds rotate the wind mill which is\nconnected to a generator to produce electricity. Wind farms\nhaving clusters of such wind mills are located in coastal\nregions and in mountain passes where strong and steady\nFig 3.14: Non-conventional Sources of Energy\nFig 3.15: Solar Panels to trap\nsolar energy\n2021–22",
+      "pdfPage": 39,
+      "hasFigure": true,
+      "subject": "geography",
+      "className": 8,
+      "imagePath": "db/geography8/figures/page_39.png"
+    }
+  },
+  {
+    "id": "geo8_p40",
+    "metadata": {
+      "chunk_text": "Resources and Development\nFig. 3.16 : Nuclear power station ,\nKalpakkam\nActivity\nSolar Cooker\nTake an old car\ntube. Inflate it and\nkeep it on a wooden\nplatform. Paint an\naluminium vessel\nblack from outside\nand add 1 cup rice\nwith 2 cups of water\nto it. Close the vessel\nwith a lid and place\nthe vessel in the\ninner circle of the\ntube. Now place a\nglass frame over the\ntube and keep the\nset out in the sun.\nAfter the glass frame\nis placed, air can\nneither come in nor\ngo out but the sun\nrays coming into\nthe closed cavity\nenclosed by the\ntube, get trapped\nand cannot escape.\nThe temperature\nincreases slowly\ncooking the rice over\na few hours.\nwinds blow. Windfarms are found in Netherlands, Germany,\nDenmark, UK, USA and Spain are noted for their wind\nenergy production.\nNuclear Power\nNuclear\npower\nis\nobtained from energy\nstored in the nuclei\nof atoms of naturally\noccurring radio active\nelements like uranium\nand thorium. These\nfuels undergo nuclear\nfission\nin\nnuclear\nreactors\nand\nemit\npower. The greatest\nproducers of nuclear power are USA and Europe.\nIn India Rajasthan and Jharkhand have large deposits\nof Uranium. Thorium is found in large quantities in the\nMonozite sands of Kerala. The nuclear power stations\nin India are located in Kalpakkam in Tamilnadu,\nTarapur in Maharastra, Ranapratap Sagar near Kota\nin Rajasthan, Narora in Uttar Pradesh and Kaiga\nin Karnataka.\nGeothermal Energy\nHeat energy obtained from the earth is called\ngeothermal energy. The temperature in the interior of\nthe earth rises steadily as we go deeper. Some times\nthis heat energy may surface itself in the form of hot\nsprings. This heat energy can be used to generate power.\nFig. 3.17 : Nuclear Energy\n2021–22",
+      "pdfPage": 40,
+      "hasFigure": true,
+      "subject": "geography",
+      "className": 8,
+      "bookPage": 32,
+      "imagePath": "db/geography8/figures/page_40.png"
+    }
+  },
+  {
+    "id": "geo8_p41",
+    "metadata": {
+      "chunk_text": "Mineral and Power Resources     33\nGeothermal energy in the form\nof hot springs has been used for\ncooking, heating and bathing\nfor several years. USA has the\nworld’s\nlargest\ngeothermal\npower plants followed by New\nZealand, Iceland, Philippines\nand Central America. In India,\ngeothermal plants are located\nin\nManikaran\nin\nHimachal\nPradesh and Puga Valley in\nLadakh.\nTidal Energy\nEnergy generated from tides is called tidal energy. Tidal\nenergy can be harnessed by building dams at narrow\nFig. 3.19 : Geothermal Energy\nNatural crack\nSteam\nWater\nWell\nturbine\ngenerator\nFig. 3.18 : (a) Geothermal Energy in Manikaran\n(b) Cooking food with the help of Geothermal Energy\n(b)\n(a)\nFig. 3.20: Tidal Energy\nDo you know?\nThe first tidal\nenergy station was\nbuilt in France.\n2021–22",
+      "pdfPage": 41,
+      "hasFigure": true,
+      "subject": "geography",
+      "className": 8,
+      "imagePath": "db/geography8/figures/page_41.png"
+    }
+  },
+  {
+    "id": "geo8_p42",
+    "metadata": {
+      "chunk_text": "Resources and Development\nopenings of the sea. During high tide the energy of the tides\nis used to turn the turbine installed in the dam to produce\nelectricity. Russia, France and the Gulf of Kachchh in\nIndia have huge tidal mill farms.\nBiogas\nOrganic waste such as dead plant and animal material,\nanimal dung and kitchen waste can be converted into a\ngaseous fuel called biogas. The organic\nwaste is decomposed by bacteria in\nbiogas digesters to emit biogas which\nis essentially a mixture of methane\nand carbon dioxide. Biogas is an\nexcellent fuel for cooking and lighting\nand produces huge amount of organic\nmanure each year.\nEnergy is everywhere but we can\nsee that harnessing this energy is both\ndifficult as well as costly. Each one of\nus can make a difference by not wasting energy. Energy\nsaved is energy generated. Act now and make brighter\nenergy future.\nFig. 3.21 : Biogas\nExercises\n1.\t Answer the following questions.\n(i)\t Name any three common minerals used by you every day.\n(ii)\t What is an ore? Where are the ores of metallic minerals generally\nlocated?\n(iii)\t Name two regions rich in natural gas resources.\n(iv)\t Which sources of energy would you suggest for\n(a) rural areas\n(b) coastal areas\n(c) Arid regions\n(v)\t Give five ways in which you can save energy at home.\n2021–22",
+      "pdfPage": 42,
+      "hasFigure": true,
+      "subject": "geography",
+      "className": 8,
+      "bookPage": 34,
+      "imagePath": "db/geography8/figures/page_42.png"
+    }
+  },
+  {
+    "id": "geo8_p43",
+    "metadata": {
+      "chunk_text": "Mineral and Power Resources     35\n2.\t Tick the correct answer.\n(i)\t Which one of the following is NOT a characteristic of minerals?\n(a)\t They are created by natural processes.\n(b)\t They have a definite chemical composition.\n(c)\t They are inexhaustible.\n(d)\t Their distribution is uneven.\n(ii)\t Which one of the following is a leading producer of copper in the world?\n(a)\t Bolivia\n(c)\t Chile\n(b)\t Ghana\n(d)\tZimbabwe\n(iii)\t Which one of the following practices will NOT conserve LPG in your\nkitchen.\n(a)\t Soaking the dal for some time before cooking it.\n(b)\t Cooking food in a pressure cooker.\n(c)\t Keeping the vegetables chopped before lighting the gas for cooking.\n(d)\t Cooking food in an open pan kept on low flame.\n3.\t Give reasons.\n(i)\t Environmental aspects must be carefully looked into before building\nhuge dams.\n(ii)\t Most industries are concentrated around coal mines.\n(iii)\t Petroleum is referred to as “black gold”.\n(iv)\t Quarrying can become a major environmental concern.\n4.\t Distinguish between the followings.\n(i)\t Conventional and non conventional sources of energy\n(ii)\t Biogas and natural gas\n(iii)\t Ferrous and nonferrous minerals\n(iv)\t Metallic and nonmetallic minerals\n5.\t Activity\n(i)\t Use pictures from old magazines to show different kinds of fuels used by\nus in our lives and display them on your bulletin board.\n(ii)\t Design a poster highlighting energy conservation tips you would take for\nyour school.\n(iii)\t Salma’s class took up an action campaign to do an energy audit of their\nschool by surveying electricity consumption.They prepared survey sheets\nfor the students of the school.\n2021–22",
+      "pdfPage": 43,
+      "hasFigure": false,
+      "subject": "geography",
+      "className": 8
+    }
+  },
+  {
+    "id": "geo8_p44",
+    "metadata": {
+      "chunk_text": "Resources and Development\nElectricity Audit\nS. No.\nAppliance\nQuantity\n(No. being\nused)\nUsage Time\n(Approx.\nNo. of\nworking\nhours)\nQuantity\n(No. actual­\nly needed)\nIs it\nswitched\non even\nwhen not\nin use?\n(Yes or No)\n1.\nFluorescent Tube\nlight 40 W\n2.\nIncandescent Bulb\n40 W / 60 W\n3.\nCo-impact\nfluorescent lamps\n4.\nFans\n5.\nExhaust Fans\n6.\nElectric Bell / Buzzer\n7.\nTV\n8.\nComputers\n9.\nAir\nConditioners\n10.\nRefrigerators\n11.\nOven / Hot Case\n12.\nPublic Address\nSystem\n13.\nWater Pump / Water\nCooler\n14.\nOverhead\nProjector\n15.\nPhotostat\nMachine\n16.\nAny other\nUsing the data collected during the survey, students calculated the units\nconsumed for one month and the approximate expenditure and compared\nit with the electricity bill of the previous month. They also calculated the\napproximate cost of electricity consumed by fans, lights and other appliances\nnot switched off. Thus, they highlighted the amount that could be saved and\nsuggested simple energy conservation habits like\n•\nSwitching off the appliances when not in use.\n•\nMinimal usage as per requirement.\n2021–22",
+      "pdfPage": 44,
+      "hasFigure": false,
+      "subject": "geography",
+      "className": 8,
+      "bookPage": 36
+    }
+  },
+  {
+    "id": "geo8_p45",
+    "metadata": {
+      "chunk_text": "Mineral and Power Resources     37\n•\nMaximising the use of natural breeze and light by keeping the windows\nopen.\n•\nKeeping the lights dust free.\n•\nThe appropriate maintenance and usage of appliances as per the given\ninstructions.\nCan you add some more tips to this list?\nYou could conduct a similar survey at home and then extend it to your\nappartment and make your neighbours also energy wise.\n2021–22",
+      "pdfPage": 45,
+      "hasFigure": false,
+      "subject": "geography",
+      "className": 8
+    }
+  },
+  {
+    "id": "geo8_p46",
+    "metadata": {
+      "chunk_text": "Agriculture\nGurpreet, Madho and Tina were walking through\nthe village where they saw a farmer tilling land. The\nfarmer told them that he was growing wheat and had\njust added manure to the soil to make it more fertile.\nHe told the children that the wheat would fetch a\ngood price in the mandi from where it would be taken\nto factories to make bread and biscuits from flour.\nThis transformation from a plant to a finished\nproduct involves three types of economic activities.\nThese are primary, secondary and tertiary activities.\nPrimary activities include all those connected\nwith extraction and production of natural resources.\nAgriculture, fishing and gathering are good examples.\nSecondary activities are concerned with the processing\nof these resources. Manufacturing of steel, baking of\nbread and weaving of cloth are examples of this activity.\nTertiary activities provide support to the primary and\nsecondary sectors through services. Transport, trade,\nbanking, insurance and advertising are examples of\ntertiary activities.\nAgriculture is a primary activity. It includes growing\ncrops, fruits, vegetables, flowers and rearing of livestock.\nIn the world, 50 per cent of persons are engaged in\nagricultural activity. Two-thirds of India’s population is\nstill dependent on agriculture.\nFavourable topography of soil and climate are vital\nfor agricultural activity. The land on which the crops\nare grown is known as arable land (Fig. 4.1). In the map\nyou can see that agricultural activity is concentrated in\nthose regions of the world where suitable factors for the\ngrowing of crops exist.\nWord Origin\nThe word\nagriculture is\nderived from Latin\nwords ager or agri\nmeaning soil and\nculture meaning,\ncultivation.\n2021–22",
+      "pdfPage": 46,
+      "hasFigure": false,
+      "subject": "geography",
+      "className": 8
+    }
+  },
+  {
+    "id": "geo8_p47",
+    "metadata": {
+      "chunk_text": "Fig. 4.1: World Distribution of Arable Land\nDo you know?\nViticulture\nCultivation of grapes.\nHorticulture\nGrowing vegetables, flowers and fruits for commercial use.\nSericulture\nCommercial rearing of silk worms. It may supplement the\nincome of the farmer.\nAgriculture\nThe science and art of cultivation on the soil, raising\ncrops and rearing livestock. It is also called farming.\nFarm System\nAgriculture or farming can be looked at as a system. The\nimportant inputs are seeds, fertilisers, machinery and\nPisciculture\nBreeding of fish in specially constructed tanks and ponds.\nAgriculture\n+ Culture\nAgri\nSeri\nPisci\nViti\nHorti\n2021–22",
+      "pdfPage": 47,
+      "hasFigure": true,
+      "subject": "geography",
+      "className": 8,
+      "imagePath": "db/geography8/figures/page_47.png"
+    }
+  },
+  {
+    "id": "geo8_p48",
+    "metadata": {
+      "chunk_text": "Resources and Development\nlabour. Some of the operations involved are ploughing,\nsowing, irrigation, weeding and harvesting. The outputs\nfrom the system include crops, wool, dairy and poultry\nproducts.\nTypes Of Farming\nFarming is practised in various ways across the world.\nDepending upon the geographical conditions, demand\nof produce, labour and level of technology, farming can\nbe classified into two main types. These are subsistence\nfarming and commercial farming.\nSubsistence Farming\nThis type of farming is practised to meet the needs of the\nfarmer’s family. Traditionally, low levels of technology\nand household labour are used to produce on small\noutput. Subsistence farming can be further classified\nas intensive subsistence and primitive subsistence\nfarming.\nIn intensive subsistence agriculture the farmer\ncultivates a small plot of land using simple tools and\nmore labour. Climate with large number of days with\nsunshine and fertile soils permit growing of more than\none crop annually on the same plot. Rice is the main\ncrop. Other crops include wheat, maize, pulses and\noilseeds. Intensive subsistence agriculture is prevalent\nin the thickly populated areas of the monsoon regions\nof south, southeast and east Asia.\nProcesses\nOutputs\nFig 4.2: The farm system of an arable farm\nFig 4.3: Physical and human farm inputs\nHuman\nInputs\nCrops\nInteresting Fact\nOrganic Farming\nIn this type of\nfarming,  organic\nmanure and\nnatural pesticides\nare used instead\nof chemicals.\nNo genetic\nmodification is\ndone  to increase\nthe yield of the\ncrop.\nPloughing\nSowing\nSpraying\nChemicals\nInputs\nMachinery\nSeeds\nSunshine\nTemperature\nSoil\nSlope\nPhysical Inputs\nRainfall\nStorage\nMachinery\nLabour\nChemicals\n2021–22",
+      "pdfPage": 48,
+      "hasFigure": true,
+      "subject": "geography",
+      "className": 8,
+      "bookPage": 40,
+      "imagePath": "db/geography8/figures/page_48.png"
+    }
+  },
+  {
+    "id": "geo8_p49",
+    "metadata": {
+      "chunk_text": "Agriculture\nDo you know?\nShifting cultivation\nis known by\ndifferent names in\ndifferent parts of\nthe world\nJhumming -\nNorth-East India\nMilpa -Mexico\nRoca - Brazil.\nLadang - Malaysia\nPrimitive subsistence agriculture includes shifting\ncultivation and nomadic herding.\nShifting cultivation is practised in the thickly\nforested areas of Amazon basin, tropical Africa, parts of\nsoutheast Asia and Northeast India. These are the areas\nof heavy rainfall and quick regeneration of vegetation.\nA plot of land is cleared by felling the trees and burning\nthem. The ashes are then mixed with the soil and crops\nlike maize, yam, potatoes and cassava are grown. After\nthe soil loses its fertility, the land is abandoned and the\ncultivator moves to a new plot. Shifting cultivation is\nalso known as ‘slash and burn’ agriculture.\nNomadic herding is practised in the semi-arid\nand arid regions of Sahara, Central Asia and some\nparts of India, like Rajasthan and Jammu and\nKashmir. In this type of farming, herdsmen\nmove from place to place with their animals for\nfodder and water, along defined routes. This\ntype of movement arises in response to climatic\nconstraints and terrain. Sheep, camel, yak and\ngoats are most commonly reared. They provide\nmilk, meat, wool, hides and other products to\nthe herders and their families.\nCommercial Farming\nIn commercial farming  crops are grown and\nanimals are reared for sale in market. The area\ncultivated and the amount of capital used is\nlarge. Most of the work is done by machines.\nCommercial\nfarming\nincludes\ncommercial\ngrain farming, mixed farming and plantation\nagriculture (Fig 4.5).\nIn commercial grain farming crops are grown\nfor commercial purpose. Wheat and maize are\ncommon commercially grown grains. Major\nareas where commercial grain farming is\npracised are temperate grasslands of North America,\nEurope and Asia. These areas are sparsely populated\nwith large farms spreading over hundreds of hectares.\nSevere winters restrict the growing season and only a\nsingle crop can be grown.\nIn mixed farming the land is used for growing\nfood\nand\nfodder\ncrops\nand\nrearing\nlivestock.\nFig 4.4: Nomadic Herders with\ntheir camels\nFig 4.5: A Sugarcane\nplantation\n2021–22",
+      "pdfPage": 49,
+      "hasFigure": true,
+      "subject": "geography",
+      "className": 8,
+      "bookPage": 41,
+      "imagePath": "db/geography8/figures/page_49.png"
+    }
+  },
+  {
+    "id": "geo8_p50",
+    "metadata": {
+      "chunk_text": "Resources and Development\nIt is practised in Europe, eastern USA, Argentina,\nsoutheast Australia, New Zealand and South Africa.\nPlantations are a type of commercial farming\nwhere single crop of tea, coffee, sugarcane, cashew,\nrubber, banana or cotton are grown. Large amount\nof labour and capital are required. The produce may\nbe processed on the farm itself or in nearby factories.\nThe development of a transport network is thus\nessential for such farming.\nMajor plantations are found in the tropical\nregions of the world. Rubber in Malaysia, coffee\nin Brazil, tea in India and Sri Lanka are some\nexamples.\nMajor Crops\nA large variety of crops are grown to meet the\nrequirement of the growing population. Crops also\nsupply raw materials for agro based industries.\nMajor food crops are wheat, rice, maize and\nmillets. Jute and cotton are fibre crops. Important\nbeverage crops are tea and coffee.\nRice: Rice is the major food crop of the world. It\nis the staple diet of the tropical and sub-tropical\nregions. Rice needs high temperature, high\nhumidity and rainfall. It grows best in alluvial\nclayey soil, which can retain water. China leads in\nthe production of rice followed by India, Japan, Sri\nLanka and Egypt. In favourable climatic conditions\nas in West Bengal and Bangladesh two to three\ncrops are grown in a year.\nWheat: Wheat requires moderate temperature and\nrainfall during growing season and bright sunshine\nat the time of harvest. It thrives best in well drained\nloamy soil. Wheat is grown extensively in USA,\nCanada, Argentina, Russia, Ukraine, Australia\nand India. In India it is grown in winter.\nMillets: They are also known as coarse grains and\ncan be grown on less fertile and sandy soils. It is\na hardy crop that needs low rainfall and high to\nFig 4.7: Rice Cultivation\nFig 4.8: Wheat Harvesting\nFig 4.6 : A Banana Plantation\nFig 4.9: Bajra Cultivation\n2021–22",
+      "pdfPage": 50,
+      "hasFigure": true,
+      "subject": "geography",
+      "className": 8,
+      "bookPage": 42,
+      "imagePath": "db/geography8/figures/page_50.png"
+    }
+  },
+  {
+    "id": "geo8_p51",
+    "metadata": {
+      "chunk_text": "Agriculture\nmoderate temperature and adequate rainfall. Jowar,\nbajra and ragi are grown in India. Other countries are\nNigeria, China and Niger.\nMaize: Maize requires\nmoderate\ntemperature,\nrainfall\nand\nlots\nof\nsunshine.\nIt\nneeds\nwell-drained fertile soils.\nMaize is grown in North\nAmerica, Brazil, China,\nRussia, Canada, India,\nand Mexico.\nCotton: Cotton requires\nhigh temperature, light\nrainfall,\ntwo\nhundred\nand ten frost-free days\nand bright sunshine for\nits growth. It grows best\non black and alluvial\nsoils. China, USA, India,\nPakistan, Brazil and Egypt are the leading producers of\ncotton. It is one of the main raw materials for the cotton\ntextile industry.\nJute: Jute was also known as the ‘Golden Fibre’. It grows\nwell on alluvial soil and requires high temperature,\nheavy rainfall and humid climate. This crop is grown in\nthe tropical areas. India and\nBangladesh are the leading\nproducers of jute.\nCoffee: Coffee requires warm\nand wet climate and well-\ndrained loamy soil. Hill slopes\nare more suitable for growth\nof this crop. Brazil is the\nleading producer followed by\nColumbia and India.\nTea: Tea is a beverage crop grown on plantations. This\nrequires cool climate and well distributed high rainfall\nthroughout the year for the growth of its tender leaves.\nFig 4.11: Cotton Cultivation\nFig 4.12: Coffee Plantation\nDo you know?\nMaize is also know\nas corn. Various\ncolourful varieties\nof maize are found\nacross the world.\nInteresting Fact\nWho discovered\nthe Coffee Plant?\nThere are different\nversions about\nthe discovery of\ncoffee. In about\nAD 850, Kaldi, an\nArab goat-herder,\nwho was puzzled\nby the queer antics\nof his flock, tasted\nthe berries of the\nevergreen bush on\nwhich the goats\nwere feeding.\nOn experiencing\na sense of\nexhilaration, he\nproclaimed his\ndiscovery to the\nworld.\nFig 4.10: Maize Cultivation\n2021–22",
+      "pdfPage": 51,
+      "hasFigure": true,
+      "subject": "geography",
+      "className": 8,
+      "bookPage": 43,
+      "imagePath": "db/geography8/figures/page_51.png"
+    }
+  },
+  {
+    "id": "geo8_p52",
+    "metadata": {
+      "chunk_text": "Resources and Development\nFig 4.14: Farmers ploughing\na field\nFig 4.13: Tea Plantation\nDo you know?\nFood security\nexists when all\npeople, at all\ntimes, have access\nto sufficient, safe\nand nutritious\nfood to meet their\ndietary needs and\nfood preferences\nfor an active and\nhealthy life.\nIt needs well-drained loamy soils and gentle\nslopes. Labour in large number is required to\npick the leaves. Kenya, India, China, Sri Lanka\nproduce the best quality tea in the world.\nAgricultural Development\nAgricultural Development refers to efforts\nmade to increase farm production in order\nto meet the growing demand of increasing\npopulation. This can be achieved in many ways such as\nincreasing the cropped area, the number of crops grown,\nimproving irrigation facilities, use of fertilisers and high\nyielding variety of seeds. Mechanisation of agriculture\nis also another aspect of agricultural development. The\nultimate aim of agricultural development is to increase\nfood security.\nAgriculture has developed at different places in different\nparts of the world. Developing countries with large\npopulations usually practise intensive agriculture where\ncrops are grown on small holdings mostly for subsistence.\nLarger holdings are more suitable for commercial agriculture\nas in USA, Canada and Australia. With the help of two case\nstudies of farms — one from India and the other from the\nUSA, let us understand about agriculture in the developing\nand a developed country.\nA Farm in India\nThere is a small village Adilabad in Ghazipur district of\nUttar Pradesh. Munna Lal is a small farmer in this village\nwho has farmland of about 1.5 hectares. His house is in\nthe main village. He purchases high yielding varieties of\nseeds from the market every alternate year. The\nland is fertile and he grows atleast two crops\nin a year which are normally wheat or rice and\npulses. The farmer takes advice of his friends\nand elders as well as government agricultural\nofficers regarding farming practices. He takes\na tractor on rent for ploughing his field, though\nsome of his friends still use traditional method\nof using bullocks for ploughing. There is a\ntubewell in the nearby field which he takes on\nrent to irrigate his field.\n2021–22",
+      "pdfPage": 52,
+      "hasFigure": true,
+      "subject": "geography",
+      "className": 8,
+      "bookPage": 44,
+      "imagePath": "db/geography8/figures/page_52.png"
+    }
+  },
+  {
+    "id": "geo8_p53",
+    "metadata": {
+      "chunk_text": "Agriculture\nMunna Lal also has two buffaloes and few hens. He\nsells milk in the cooperative store located in the nearby\ntown. He is a member of the co-operative society which\nalso advises him on the type of fodder for his animals,\nsafety measures to protect the health of the livestock\nand artificial insemination.\nAll the members of the family help him\nin various farm activities. Sometimes, he\ntakes credit from a bank or the agricultural\nco-operative society to buy HYV seeds and\nimplements.\nHe sells his produce in the mandi located\nin the nearby town. Since majority of the\nfarmers do not have lack storage facilities,\nthey are forced to sell the produce even\nwhen the market is not favourable to them.\nIn recent years, the government has taken\nsome steps to develop storage facilites.\nA Farm in the USA\nThe average size of a farm in the USA is much\nlarger than that of an Indian farm. A typical\nfarm size in the USA is about 250 hectares.\nThe farmer generally resides in the farm.\nSome of the major crops grown are corn,\nsoyabean, wheat, cotton and sugarbeet.\nJoe Horan, a farmer in the Midwest USA, in\nIowa State owns about 300 hectares of land.\nHe grows corn on his field after making sure\nthat soil and water resources meet the needs\nof this crop. Adequate measures are taken to control\npests that can damage the crop. From time to time\nhe sends the soil samples to a soil testing laboratory\nto check whether  the\nnutrients are sufficient or\nnot. The results help Joe\nHoran to plan a scientific\nfertiliser programme. His\ncomputer is linked to the\nsatellite which gives him\na precise picture of his\nfield. This helps him to\nuse chemical fertilisers\nFig 4.17: Spray of Pesticides\nFig 4.16: A Farm in the USA\nFig 4.15: An Agricultural Field in India\n2021–22",
+      "pdfPage": 53,
+      "hasFigure": true,
+      "subject": "geography",
+      "className": 8,
+      "bookPage": 45,
+      "imagePath": "db/geography8/figures/page_53.png"
+    }
+  },
+  {
+    "id": "geo8_p54",
+    "metadata": {
+      "chunk_text": "Resources and Development\nExercises\n1.\t Answer the following questions.\n(i) \tWhat is agriculture?\n(ii) \tName the factors influencing agriculture?\n(iii)\t What is shifting cultivation? What are its disadvantages?\n(iv) \tWhat is plantation agriculture?\n(v) \tName the fibre crops and name the climatic conditions required for their\ngrowth.\n2.\t Tick the correct answer.\n(i)\t Horticulture means\n(a)\t growing of fruits and vegetables\n(b)\t primitive farming\n(c)\t growing of wheat\n(ii) \tGolden fibre refers to\n(a)\t tea\n(b)\t cotton\n(c)\t jute\n(iii) \tLeading producers of coffee\n(a)\t Brazil\n(b)\t India\n(c)\t Russia\n3.\t Give reasons.\n(i) \tIn India agriculture is a primary activity.\n(ii)\t Different crops are grown in different regions.\n4.\t Distinguish between the followings.\n(i) \tPrimary activites and tertiary activities\n(ii)\t Subsistence farming and intenstive farming.\n5.\t Activity\n(i)\t Collect seeds of wheat, rice, jowar, bajra, ragi, maize, oilseeds and pulses\navailable in the market. Bring them to the class and find out in which type\nof soil they grow.\n(ii)\t Find out the difference between the life style of farmers in the USA and\nIndia on the basis of pictures collected from magazines, books, newspapers\nand the internet.\nFig 4.18: Mechanised Harvesting in the USA\nand pesticides wherever they are required.\nHe uses tractors, seed drills, leveller,\ncombined harvester and thresher to perform\nvarious agricultural operations. A grains are\nstored in the automated grain storage or\ndespatched to market agencies. The farmer\nin USA works like a businessman and not\nlike a peasant farmer.\n2021–22",
+      "pdfPage": 54,
+      "hasFigure": true,
+      "subject": "geography",
+      "className": 8,
+      "bookPage": 46,
+      "imagePath": "db/geography8/figures/page_54.png"
+    }
+  },
+  {
+    "id": "geo8_p55",
+    "metadata": {
+      "chunk_text": "Agriculture\n1.\t Crop that needs well drained fertile\nsoils, moderate temperatures and\nlots of sunshine (5)\n2.\t Increasing production through use\nof HYV seeds, chemical fertilisers\nand pesticides (5,10)\n4.\t USA, Canada, Russia, Australia are\nmajor producers of this crop (5)\n10.\t Type of farming to meet family\nneeds (11)\n13.\t Rearing of animals for sale (9)\n14.\t Growing grapes for wines (11)\n1.\t Coarse grains are also called (7)\n3.\t Cultivation involving slash and\nburn (8)\n5.\t Growing\nof\ncrops,\nfruits\nand\nvegetables (11)\n6.\t Tea, coffee, sugarcane and rubber\nare grown in (11)\n7.\t Requires 210 frost-free days for\ngrowth (6)\n8.\t Growing of flowers (12)\n9.\t Also called ‘Golden Fibre’ (4)\n11.\t Also known as paddy (4)\n12.\t Activity concerned with extraction\nof natural resources (7)\nAcross\nDown\n6.\t For Fun\nSolve the crossword puzzle with\nthe help of given clues.\nAgriculture\n2021–22",
+      "pdfPage": 55,
+      "hasFigure": false,
+      "subject": "geography",
+      "className": 8,
+      "bookPage": 47
+    }
+  },
+  {
+    "id": "geo8_p56",
+    "metadata": {
+      "chunk_text": "Have you ever given a thought to the fact that the note\nbook you use for writing has come to you after a long\nprocess of manufacturing. It started its life as part of a\ntree. It was cut down and transported to the pulp mill.\nThere the wood of the tree was processed and converted\ninto wood pulp. The wood pulp was mixed with chemicals\nand finally changed into paper by machines. This paper\nfound its way to the press where ink made from chemicals\nwas used to print the lines on the pages. The pages were\nthen bound in the form of a note book, packed and sent to\nthe market for sale. Finally, it reached your hands.\nSecondary activities or manufacturing change\nraw materials into products of more value to people. As\nyou have seen pulp was changed into paper and paper\ninto a note book. These represent the two stages of the\nmanufacturing process.\nThe paper made from pulp and cloth made from\ncotton have had value added to them at each stage of the\nmanufacturing process. In this way the finished product\nhas more value and utility than the raw material that it\nis made from.\nIndustry refers to an economic activity that is\nconcerned with production of goods, extraction of\nminerals or the provision of services. Thus we have iron\nand steel industry (production of goods), coal mining\nindustry (extraction of coal) and tourism industry\n(service provider).\nClassification of Industries\nIndustries can be classified on the basis of raw materials,\nsize and ownership.\nActivity\nTrace the journey\nof your shirt from\na cotton field to\nyour wardrobe.\nIndustries\nJourney begins...\n...paper made...\n...recycle...\n2021–22",
+      "pdfPage": 56,
+      "hasFigure": false,
+      "subject": "geography",
+      "className": 8
+    }
+  },
+  {
+    "id": "geo8_p57",
+    "metadata": {
+      "chunk_text": "Raw  Materials: Industries may be agro based, mineral\nbased, marine based and forest based depending on the\ntype of raw materials they use. Agro based industries\nuse plant and animal based products as their raw\nmaterials. Food processing, vegetable oil, cotton textile,\ndairy products and leather industries are examples of\nagro-based industries. Mineral based industries are\nprimary industries that use mineral ores as their raw\nmaterials. The products of these industries feed other\nindustries. Iron made from iron ore is the product of\nmineral based industry. This is used as raw material for\nthe manufacture of a number of other products, such\nas heavy machinery, building materials and railway\ncoaches. Marine based industries use products from the\nsea and oceans as raw materials. Industries processing\nsea food or manufacturing fish oil are some examples.\nForest based industries utilise forest produce as raw\nmaterials. The industries associated with forests are pulp\nand paper, pharmaceuticals, furniture and buildings.\nSize:  It refers to the amount of capital invested,\nnumber of people employed and the volume of production.\nBased on size, industries can be classified into small\nscale and large scale industries. Cottage or\nhousehold industries are a type of small scale\nindustry where the products are manufactured\nby hand, by the artisans. Basket weaving,\npottery and other handicrafts are examples\nof cottage industry. Small scale industries\nuse lesser amount of capital and technology\nas compared to large scale industries that\nproduce large volumes of products. Investment\nof capital is higher and the technology used\nis superior in large scale industries. Silk\nweaving and food processing industries are\nsmall scale industries(Fig 5.1). Production of\nautomobiles and heavy machinery are large\nscale industries.\nOwnership: Industries can be classified into private\nsector, state owned or public sector, joint sector and\ncooperative sector. Private sector industries are owned\nand operated by individuals or a group of individuals.\nThe public sector industries are owned and operated by\nthe government, such as Hindustan Aeronautics Limited\nActivity\nGive some\nexamples of agro\nbased industries.\nFig 5.1: Stages in food processing of\nGorgon nut (makhana)\nIndustries\n2021–22",
+      "pdfPage": 57,
+      "hasFigure": true,
+      "subject": "geography",
+      "className": 8,
+      "imagePath": "db/geography8/figures/page_57.png"
+    }
+  },
+  {
+    "id": "geo8_p58",
+    "metadata": {
+      "chunk_text": "Resources and Development\nand Steel Authority of India Limited. Joint sector\nindustries are owned and operated by the state\nand individuals or a group of individuals. Maruti\nUdyog Limited is an example of joint sector\nindustry. Co-operative sector industries are\nowned and operated by the producers or suppliers\nof raw materials, workers or both. Anand Milk\nUnion Limited and Sudha Dairy are a success\nstories of a co-operative venture.\nFactors Affecting Location of Industries\nThe factors affecting the location\nof industries are the availability of\nraw material, land, water, labour,\npower, capital, transport and market.\nIndustries are situate d where some or\nall of these factors are easily available.\nSometimes, the government provides\nincentives like subsidised power, lower\ntransport cost and other infrastructure\nso that industries may be located in\nbackward\nareas.\nIndustrialisation\noften leads to development and growth\nof towns and cities.\nIndustrial System\nAn industrial system consists of inputs, processes and\noutputs. The inputs are the raw materials, labour and\ncosts of land, transport, power and other infrastructure.\nThe processes include a wide range of activities that\nconvert the raw material into finished products. The\noutputs are the end product and the income earned\nfrom it. In case of the textile industry the inputs may be\ncotton, human labour, factory and transport cost. The\nprocesses include ginning, spinning, weaving, dyeing\nand printing. The output is the shirt you wear.\nIndustrial Regions\nIndustrial regions emerge when a number of industries\nlocate close to each other and share the benefits of\ntheir closeness. Major industrial regions of the world\nare eastern North America, western and central Europe,\neastern Europe and eastern Asia (Fig 5.4). Major\nFig 5.3: Locational factors for industries\nActivity\nFind out the\ninputs, outputs\nand processes\ninvolved in the\nmanufacture of a\nleather shoe.\nFig 5.2: Sudha dairy in\nCo-operative sector\n2021–22",
+      "pdfPage": 58,
+      "hasFigure": true,
+      "subject": "geography",
+      "className": 8,
+      "bookPage": 50,
+      "imagePath": "db/geography8/figures/page_58.png"
+    }
+  },
+  {
+    "id": "geo8_p59",
+    "metadata": {
+      "chunk_text": "Industries\nFig 5.4: World’s Industrial Regions\nindustrial regions tend to be located in the temperate\nareas, near sea ports and especially near coal fields.\nIndia has several industrial regions like Mumbai-\nPune cluster, Bangalore-Tamil Nadu region, Hugli region,\nAhmedabad-Baroda region, Chottanagpur industrial belt,\nVishakhapatnam-Guntur belt, Gurgaon-Delhi-Meerut\nregion and the Kollam-Thiruvanathapuram industrial\ncluster.\nIndustrial Disaster\nIn industries, accidents/disasters mainly occur due to technical\nfailure or irresponsible handling of hazardous material.\nOne of the worst industrial disasters of all time occurred\nin Bhopal on 3 December 1984 around 00:30 a.m. It was\na technological accident in which highly poisonous Methyl\nIsocynate (MIC) gas along with Hydrogen Cyanide and other\nreaction products leaked out of the pesticide factory of Union\nCarbide. The official death toll was 3,598 in 1989. Thousands,\nwho survived still suffer from one or many ailments like blindness,\nimpaired immune system, gastrointestinal disorders etc.\nUnion Carbide Factory\n2021–22",
+      "pdfPage": 59,
+      "hasFigure": true,
+      "subject": "geography",
+      "className": 8,
+      "bookPage": 51,
+      "imagePath": "db/geography8/figures/page_59.png"
+    }
+  },
+  {
+    "id": "geo8_p60",
+    "metadata": {
+      "chunk_text": "Resources and Development\nIn another incident, on 23 December 2005, due to gas well\nblowout in Gao Qiao, Chongging, China, 243 people died, 9,000 were\ninjured and 64,000 were evacuated. Many people died because they\nwere unable to run after the explosion. Those who could not escape\nin time suffered burns to their eyes, skin and lungs from the gas.\nRisk Reduction Measures\n1.\t Densely populated residential areas should be separated far\naway from the industrial areas.\n2.\t People staying in the vicinity of industries should be aware of\nthe storage of toxins or hazardous substances and their possible\neffects in case if an accident occurs.\n3.\t Fire warning and fighting system should be improved.\n4.\t Storage capacity of toxic substances should be limited.\n5.\t Pollution dispersion qualities in the industries should be\nimproved.\nDistribution Of Major Industries\nThe world’s major industries are the iron and steel\nindustry, the textile industry and the information\ntechnology industry. The iron and steel and textile\nindustry are the older industries while information\ntechnology is an emerging industry.\nThe countries in which iron and steel industry is\nlocated are Germany, USA, China, Japan and Russia.\nTextile industry is concentrated in India, Hong Kong,\nSouth Korea, Japan and Taiwan. The major hubs of\nInformation technology industry are the Silicon valley\nof Central California and the Bangalore region of India.\nIron and Steel Industry\nLike other industries iron and steel industry too\ncomprises various inputs, processes and outputs. This\nis a feeder industry whose products are used as raw\nmaterial for other industries.\nThe inputs for the industry include raw materials\nsuch as iron ore, coal and limestone, along with labour,\ncapital, site and other infrastructure. The process of\nconverting iron ore into steel involves many stages.\nThe raw material is put in the blast furnace where it\nundergoes smelting (Fig 5.6). It is then refined. The\noutput obtained is steel which may be used by other\nindustries as raw material.\nDo you know?\nEmerging\nindustries are also\nknown as ‘Sunrise\nIndustries’.These\ninclude Information\ntechnology,\nWellness,\nHospitality and\nKnowledge.\nGlossary\nSmelting\nIt is the process\nin which metals\nare extracted\nfrom their ores by\nheating beyond\nthe melting point\nRescue operation\nin Gao Qiao\n2021–22",
+      "pdfPage": 60,
+      "hasFigure": false,
+      "subject": "geography",
+      "className": 8,
+      "bookPage": 52
+    }
+  },
+  {
+    "id": "geo8_p61",
+    "metadata": {
+      "chunk_text": "Industries\nSteel is tough and it can easily be shaped, cut,\nor made into wire. Special alloys of steel can be\nmade by adding small amounts of other metals\nsuch as aluminium, nickel, and copper. Alloys give\nsteel unusual hardness, toughness, or ability to\nresist rust.\nSteel is often called the backbone of modern\nindustry. Almost everything we use is either made\nof iron or steel or has been made with tools and\nmachinery of these metals. Ships, trains, trucks,\nand autos are made largely of steel. Even the safety\npins and the needles you use are made from steel.\nOil wells are drilled with steel machinery. Steel\npipelines transport oil. Minerals are mined with\nsteel equipment. Farm machines are mostly steel.\nLarge buildings have steel framework.\nBefore 1800 A.D. iron and steel industry was\nlocated where raw materials, power supply and\nrunning water were easily\navailable.\nLater\nthe\nideal\nlocation for the industry was\nnear coal fields and close to\ncanals and railways. After\n1950, iron and steel industry\nbegan to be located on large\nareas of flat land near sea\nports. This is because by this\ntime steel works had become\nvery large and iron ore had\nto be imported from overseas\n(Fig 5.7).\nIn India, iron and steel\nindustry has developed taking\nFig. 5.6: From iron ore to steel\nin a blast furnace\nFig 5.5: Manufacturing of steel\n8 tonnes of coal\n+\n1 tonne of\nsteel\n=\n4 tonnes of\niron ore\n1 tonne of\nlimestone\n+\nFig 5.7: The changing location of the iron and\nsteel industry\n1: The best location\nbefore 1800\n2: The best location\nfrom 1800 to 1950\n3: The best location\nsince 1950\n2021–22",
+      "pdfPage": 61,
+      "hasFigure": true,
+      "subject": "geography",
+      "className": 8,
+      "bookPage": 53,
+      "imagePath": "db/geography8/figures/page_61.png"
+    }
+  },
+  {
+    "id": "geo8_p62",
+    "metadata": {
+      "chunk_text": "Resources and Development\nadvantage of raw materials, cheap labour, transport and\nmarket. All the important steel producing centres such as\nBhilai, Durgapur, Burnpur, Jamshedpur, Rourkela, Bokaro\nare situated in a region that spreads over four states — West\nBengal, Jharkhand, Odisha and Chhattisgarh. Bhadravati\nand Vijay Nagar in Karnataka, Vishakhapatnam in Andhra\nPradesh, Salem in Tamil Nadu are other important steel\ncentres utilising local resources.\nJamshedpur\nBefore 1947, there was only one iron and steel plant in the\ncountry – Tata Iron and Steel Company Limited (TISCO). It\nwas privately owned. After Independence, the government\ntook the initiative and set up several iron and steel plants.\nTISCO was started in 1907 at Sakchi, near the confluence of\nthe rivers Subarnarekha and Kharkai in Jharkhand. Later\non Sakchi was renamed as Jamshedpur. Geographically,\nJamshedpur is the most conveniently situated iron and\nsteel centre in the country.\nFig 5.8: World: Major Iron Ore Producing Areas\n2021–22",
+      "pdfPage": 62,
+      "hasFigure": true,
+      "subject": "geography",
+      "className": 8,
+      "bookPage": 54,
+      "imagePath": "db/geography8/figures/page_62.png"
+    }
+  },
+  {
+    "id": "geo8_p63",
+    "metadata": {
+      "chunk_text": "Industries\nFig 5.9: Location of iron and steel industry in Jamshedpur\nSakchi was chosen to set up the steel plant for\nseveral reasons. This place was only 32 km away from\nKalimati station on the Bengal-Nagpur railway line. It\nwas close to the iron ore, coal and manganese deposits\nas well as to Kolkata, which provided a large market.\nTISCO, gets coal from Jharia coalfields, and iron ore,\nlimestone, dolomite and manganese from Odisha and\nChhattisgarh. The Kharkai and Subarnarekha rivers\nensured sufficient water supply. Government initiatives\nprovided adequate capital for its later development.\nIn Jamshedpur, several other industrial plants were\nset up after TISCO. They produce chemicals, locomotive\nparts, agricultural equipment, machinery, tinplate,\ncable and wire.\nThe development of the iron and steel industry\nopened the doors to rapid industrial development in\nIndia. Almost all sectors of the Indian industry depend\nheavily on the iron and steel industry for their basic\ninfrastructure. The Indian iron and steel industry\nconsists of large integrated steel plants as well as mini\nLet’s do\nWith the help of\nan atlas identify\nsome iron and\nsteel industries in\nIndia and mark\ntheir location on\nan outline map of\nIndia.\nSketch\n2021–22",
+      "pdfPage": 63,
+      "hasFigure": true,
+      "subject": "geography",
+      "className": 8,
+      "bookPage": 55,
+      "imagePath": "db/geography8/figures/page_63.png"
+    }
+  },
+  {
+    "id": "geo8_p64",
+    "metadata": {
+      "chunk_text": "Resources and Development\nsteel mills. It also includes secondary producers, rolling\nmills and ancillary industries.\nPittsburgh : It is an important steel city of the United\nStates of America. The steel industry at Pittsburgh\nenjoys locational advantages. Some of the raw material\nsuch as coal is available locally, while the iron ore comes\nfrom the iron mines at Minnesota, about 1500 km from\nPittsburgh. Between these mines and Pittsburgh is one\nof the world’s best routes for shipping ore cheaply – the\nfamous Great Lakes waterway. Trains carry the ore\nfrom the Great Lakes to the Pittsburgh area. The Ohio,\nthe Monogahela and Allegheny rivers provide adequate\nwater supply.\nToday, very few of the large steel mills are in Pittsburgh\nitself. They are located in the valleys of the Monogahela\nand Allegheny rivers above Pittsburgh and along the\nOhio River below it. Finished steel is transported to the\nmarket by both land and water routes.\nThe Pittsburgh area has many factories other than\nsteel mills. These use steel as their raw material to make\nmany different products such as railroad equipment,\nheavy machinery and rails.\nCotton Textile Industry\nWeaving cloth from yarn is an ancient art. Cotton,\nwool, silk, jute, flax have been used for making cloth.\nThe textile industry can be divided on the basis of raw\nmaterials used in them. Fibres are the raw material of\ntextile industry. Fibres can be natural or man-made.\nNatural fibres are obtained from wool, silk, cotton, linen\nand jute. Man made fibres include nylon, polyester,\nacrylic and rayon.\nThe cotton textile industry is one of the oldest\nindustries in the world. Till the industrial revolution in\nthe 18th century, cotton cloth was made using hand\nspinning techniques (wheels) and looms. In 18th century\npower looms facilitated the development of cotton textile\nindustry, first in Britain and later in other parts of the\nworld. Today India, China, Japan and the USA are\nimportant producers of cotton textiles.\nIndia has a glorious tradition of producing excellent\nquality cotton textiles. Before the British rule, Indian\nDo you know?\nThe names of Great\nLakes are Superior,\nHuron, Ontario,\nMichigan and Erie.\nLake Superior is\nthe largest of these\nfive lakes. It lies\nhigher upstream\nthan others.\nWord Origin\nThe term ‘textile’\nis derived from\nthe Latin word\ntexere which\nmeans to weave.\n2021–22",
+      "pdfPage": 64,
+      "hasFigure": false,
+      "subject": "geography",
+      "className": 8,
+      "bookPage": 56
+    }
+  },
+  {
+    "id": "geo8_p65",
+    "metadata": {
+      "chunk_text": "Industries\nFig 5.10: World : Major cotton textile manufacturing regions\nhand spun and hand woven cloth already had a\nwide market. The Muslins of Dhaka, Chintzes of\nMasulipatnam, Calicos of Calicut and Gold-wrought\ncotton of Burhanpur, Surat and Vadodara were\nknown worldwide for their quality and design. But the\nproduction of hand woven cotton textile was expensive\nand time consuming. Hence, traditional cotton textile\nindustry could not face the competition from the new\ntextile mills of the West, which produced cheap and good\nquality fabrics through mechanized industrial units.\nThe first successful mechanized textile mill was\nestablished in Mumbai in 1854. The warm, moist\nclimate, a port for importing machinery, availability\nof raw material and skilled labour resulted in rapid\nexpansion of the industry in the region.\nInitially this industry flourished in the states of\nMaharashtra and Gujarat because of favourable humid\nclimate. But today, humidity can be created artificially,\nand raw cotton is a pure and not weight losing raw\nmaterial, so this industry has spread to other parts\nDo you know?\nThe first textile\nmill in the country\nwas established at\nFort Gloster near\nKolkata in 1818\nbut it closed down\nafter some time.\n2021–22",
+      "pdfPage": 65,
+      "hasFigure": true,
+      "subject": "geography",
+      "className": 8,
+      "bookPage": 57,
+      "imagePath": "db/geography8/figures/page_65.png"
+    }
+  },
+  {
+    "id": "geo8_p66",
+    "metadata": {
+      "chunk_text": "Resources and Development\nof India. Coimbatore, Kanpur, Chennai, Ahmedabad,\nMumbai, Kolkata, Ludhiana, Puducherry and Panipat\nare some of the other important centres.\nAhmedabad : It is located in Gujarat on the banks\nof  the Sabarmati river. The first mill was established\nin 1859. It soon became the second largest textile city\nof India, after Mumbai. Ahmedabad was therefore often\nreferred to as the ‘Manchester of India’. Favourable\nlocational factors were responsible for the development\nof the textile industry in Ahmedabad. Ahmedabad is\nsituated very close to cotton growing area. This ensures\neasy availability of raw material. The climate is ideal\nfor spinning and weaving. The flat terrain and easy\navailability of land is suitable for the establishment\nof the mills. The densely populated states of Gujarat\nand Maharashtra provide both skilled and semi-skilled\nlabour. Well developed road and railway network permits\neasy transportation of textiles to different parts of the\ncountry, thus providing easy access to the market.\nMumbai port nearby facilitates import of machinery and\nexport of cotton textiles.\nBut in the recent years, Ahmedabad textile mills have\nbeen having some problems. Several textile mills have\nclosed down. This is primarily due to the emergence\nof new textile centres in the country as well as non-\nupgradation of machines and technology in the mills of\nAhmedabad.\nOsaka : It is an important textile centre of Japan, also\nknown as the ‘Manchester of Japan’. The textile industry\ndeveloped in Osaka due to several geographical factors.\nThe extensive plain around Osaka ensured that land\nwas easily available for the growth of cotton mills. Warm\nhumid climate is well suited to spinning and weaving.\nThe  river Yodo  provides sufficient water for the mills.\nLabour is easily available. Location of  port facilitates\nimport of  raw cotton and for exporting textiles. The\ntextile industry at Osaka depends completely upon\nimported raw materials. Cotton is imported from Egypt,\nIndia, China and USA. The finished product is mostly\nexported and has a good market due to good quality\nand low price. Though it is one of the important textile\ncities in the country, of late, the cotton textile industry\nDo you know?\nAbout one-third of\nthe Indian textile\nindustry’s total\nproduction is\nexported.\nActivity\nCollect different\ntypes of pieces\nof cloth from a\ntailor’s shop and\nclassify them\nunder cotton, silk,\nsynthetic and\nwoollen. Find out\nthe raw materials\nused in their\nmanufacturing.\nLet’s do\nOn an outline\nmap of the world\nmark the places\nwhich provide raw\nmaterial to cotton\ntextile industry of\nOsaka\n2021–22",
+      "pdfPage": 66,
+      "hasFigure": false,
+      "subject": "geography",
+      "className": 8,
+      "bookPage": 58
+    }
+  },
+  {
+    "id": "geo8_p67",
+    "metadata": {
+      "chunk_text": "Industries\nof Osaka has been replaced by other industries, such as\niron and steel, machinery, shipbuilding, automobiles,\nelectrical equipment and cement.\nExercises\n1.\t Answer the following questions.\n(i)\t What is meant by the term ‘industry’?\n(ii)\t Which are the main factors which influence the location of an industry?\n(iii)\t Which industrty is often referred to as the backbone of modern industry\nand why?\n(iv)\t\t Why cotton textile industry rapidly expanded in Mumbai?\n2.\t Tick the correct answer.\n(i)\t Fort Gloster is located in\n(a)\tWest Bengal\n(b)\tCalifornia\n(c)\t Gujarat\n(ii)\t Which one of the following is a natural fibre?\n(a) nylon\n(b) jute\n(c)\tacryclic\n3.\t Distinguish between the followings.\n(i) \t Agro-based and mineral based industry\n(ii) \t Public sector and joint sector industry\n4.\t Give two examples of the following in the space provided :\n(i)\t Raw Materials: _____________ and _____________________\n(ii)\t End products: _______________ and _________________________\n(iii)\t Tertiary Activities: ________________ and __________\n(iv)\t Agro-based Industries: ____________ and ____________\n(v)\t Cottage Industries: ___________ and ________________\n(vi)\t Co-operatives: ______________________ and _____________\n2021–22",
+      "pdfPage": 67,
+      "hasFigure": false,
+      "subject": "geography",
+      "className": 8,
+      "bookPage": 59
+    }
+  },
+  {
+    "id": "geo8_p68",
+    "metadata": {
+      "chunk_text": "Resources and Development\n5.\t Activity\nHow to identify a location for establishing an industry —\nDivide your class into groups. Each group is a Board of Directors faced with\nthe problem of choosing a suitable site for an iron and steel plant of Developen\nDweep. A team of technical experts has submitted a report with notes and a map.\nThe team considered access to iron ore, coal, water and limestone, as well as the\nmain market, sources of labour and port facilities. The team has suggested two\nsites, X and Y. The Board of Directors has to take the final decision about where\nto locate the steel plant.\n• Read the report submitted by the team.\n• Study the map to find out the distances of the resources from each site.\n• Give each resource a ‘weight’ from 1 to 10, according to its importance. The\ngreater the ‘pull’ of the factor on the industry the higher the weight from 1 to 10.\n• Complete the table on the next page.\n• The site with the lowest total should be the most satisfactory site.\n• Remember each group of directors can decide differently.\n2021–22",
+      "pdfPage": 68,
+      "hasFigure": false,
+      "subject": "geography",
+      "className": 8,
+      "bookPage": 60
+    }
+  },
+  {
+    "id": "geo8_p69",
+    "metadata": {
+      "chunk_text": "Industries\nReport\nFactors/Resources affecting the location of a proposed Iron and Steel Plant\non Developen Dweep.\n•\t Iron ore: This is a very large deposit of low grade iron ore. Long distance\ntransportation of the ore would be uneconomic.\n• Coal: The only coalfield contains rich deposits of high grade coal. Transportation\nof the coal is by railway, which is relatively cheap.\n• Limestone: This is widely available over the island, but the purest deposits are\nin the Chuna Mountains.\n• Water: Both the tributaries of River Neel carry sufficient water to supply a\nlarge iron and steel plant in all seasons. The sea water because of its high salt\ncontent is unsuitable.\n• Market: It is expected that the chief market for the Plant’s products will be the\nengineering works of Rajdhanipur. Transport costs for the products- mainly\nsmall steel bars and light steel plates would be relatively low.\n• Labour supply: This will have to be recruited mainly from the unskilled\nworkers in the 3 fishing villages of Hil, Rah and Sing. It is expected that most\nworkers will commute daily from their present homes.\n• Port facilities: These are at present minimal. There is a good, deep natural\nharbour at port Paschimpur developed to import metal alloys.\nResource\nDistance\nfrom X\nDistance\nfrom Y\nWeighting*\n1-10\nDistance X\nweight for\nsite X\nDistance X\nweight for\nsite Y\nIron ore\nCoal\nLimestone\nWater\nChief market\nLabour supply\n* the larger the pull, the higher the weighting\nTotal =\n2021–22",
+      "pdfPage": 69,
+      "hasFigure": false,
+      "subject": "geography",
+      "className": 8,
+      "bookPage": 61
+    }
+  },
+  {
+    "id": "geo8_p70",
+    "metadata": {
+      "chunk_text": "People are a nation’s greatest resource. Nature’s bounty\nbecomes significant only when people find it useful. It\nis people with their demands and abilities that turn\nthem into ‘resources’. Hence, human resource is the\nultimate resource. Healthy, educated and motivated\npeople develop resources as per their requirements.\nHuman resources like other resources are not\nequally distributed over the world. They differ in their\neducational levels, age and sex. Their numbers and\ncharacteristics also keep changing.\nDo you know?\nThe Government of\nIndia has a Ministry\nof Human Resource\nDevelopment.\nThe Ministry was\ncreated in 1985\nwith an aim to\nimprove people’s\nskills. This just\nshows how\nimportant people\nare as a resource\nfor the country.\nDo you know?\nPradhan Mantri\nKaushal Vikas\nYojna (PKVY) was\nstarted in 2015\naiming to train one\ncrore Indian youth\nfrom 2016 to 2020.\nThe objective of\nthis scheme is to\nencourage aptitude\ntowards employable\nskills by giving\nquality training\nto probable and\nexisting wage\nearners.\nHuman Resources\nThere are\n30 children\nin my class.\nThere are 500\nchildren in my\nschool.\nMy village\nhas 1,000\npeople.\nHow many\npeople do you\nthink, there are\nin the whole\nworld?\nAround aAa6.6 billion people.\nHow do you\nwrite that in\nnumbers?\n2021–22",
+      "pdfPage": 70,
+      "hasFigure": false,
+      "subject": "geography",
+      "className": 8
+    }
+  },
+  {
+    "id": "geo8_p71",
+    "metadata": {
+      "chunk_text": "Distribution of Population\nThe way in which people are\nspread across the earth surface\nis known as the pattern of\npopulation distribution. More\nthan 90 per cent of the world’s\npopulation lives in about 30 per\ncent of the land surface. The\ndistribution of population in the\nworld is extremely uneven.\nSome areas are very crowded\nand some are sparely populated.\nThe crowded areas are south and\nsouth east Asia, Europe and north\neastern North America. Very few\npeople live in high latitude areas,\ntropical deserts, high mountains\nand areas of equatorial forests.\nMany more people live north\nof the Equator than south of the\nEquator. Almost three-quarters\nof the world’s people live in two\ncontinents Asia and Africa.\nSixty per cent of the world’s\npeople stay in just 10 countries.\nAll of them have more than a 100\nmillion people.\nActivity\nStudy Fig. 6.1\nand find out :\nof the world’s total\npopulation which\ncontinent has —\n(a)\tonly 5 per cent\n(b)\tonly 13 per cent\n(c)\tonly 1 per cent\n(d)\tonly 12 per cent\nFig. 6.2: World’s most populous countries\nFig. 6.1: World population by continents\nlive in Asia\nlive in Europe\nlive in Africa\nlive in Central\nand South\nAmerica\nlive in Northern\nAmerica\nlive in Oceania\n(Australia, New\nZealand and the\nPacific island)\nOf every 100 people in the world...\nHuman Resources\nLocate and label these countries on the outline map of the world.\nSource: Census of India, 2011 Provisional Population Totals, Paper 1 of 2011 India Series 1\n2021–22",
+      "pdfPage": 71,
+      "hasFigure": true,
+      "subject": "geography",
+      "className": 8,
+      "imagePath": "db/geography8/figures/page_71.png"
+    }
+  },
+  {
+    "id": "geo8_p72",
+    "metadata": {
+      "chunk_text": "Resources and Development\nActivity\nLook at Fig 6.2\nand find out:\nof these countries\nhow many are in\nAsia? Colour them\non a world map.\nDensity of Population\nPopulation density is the number of people living in a\nunit area of the earth’s surface. It is normally expressed\nas per square km. The average density of population in\nthe  whole world is 51 persons per square km. South\nCentral Asia has the highest density of population\nfollowed by East and South East Asia\nDo you know?\nAverage density of\npopulation in India\nis 382 persons per\nsquare km.\nFactors Affecting Distribution of Population\nGeographical Factors\nTopography: People always prefer to live on plains\nrather than mountains and plateaus because these\nareas are suitable for farming, manufacturing and\nservice activities. The Ganga plains are the most densely\npopulated areas of the world while mountains like\nAndes, Alps and Himalayas are sparsely populated.\nClimate: People usually avoid extreme climates that are\nvery hot or very cold like Sahara desert, polar regions of\nRussia, Canada and Antarctica.\nSoil: Fertile soils provide  suitable land for agriculture.\nFertile plains such as Ganga and Brahmaputra in India,\nHwang-He, Chang Jiang in China and the Nile in Egypt\nare densely populated.\nWater: People prefer to live in the areas where fresh\nwater is easily available. The river valleys of the\nworld are densely populated while deserts have spare\npopulation.\nMinerals: Areas with mineral deposits are more\npopulated. Diamond mines of South Africa and discovery\nof oil in the Middle east lead to settling of people in\nthese areas.\nSocial, Cultural and Economic Factors\nSocial: Areas of better housing, education and health\nfacilities are more densely populated e.g., Pune.\nWhen all the 30 students are\npresent, our classroom seems\nvery crowded. But when the\nsame class is seated in the\nschool assembly hall, it seems\nso open and empty. Why?\nBecause the size or area of the\nhall is much larger than that of\nthe classroom. However, when\nall the students of the school\ncome into the hall, the hall too\nstarts looking crowded.\n2021–22",
+      "pdfPage": 72,
+      "hasFigure": false,
+      "subject": "geography",
+      "className": 8,
+      "bookPage": 64
+    }
+  },
+  {
+    "id": "geo8_p73",
+    "metadata": {
+      "chunk_text": "Human Resources\nCultural: Places with religion or cultural significance\nattract people. Varanasi, Jerusalem and Vatican city\nare some examples.\nEconomic:\nIndustrial\nareas\nprovide\nemployment\nopportunities. Large number of people are attracted to\nthese areas. Osaka in Japan and Mumbai in India are\ntwo densely populated areas.\nPopulation Change\nThe population change refers to change in the number\nof people during a specific time. The world population\nhas not been stable. It has increased manifold as seen\nin the Fig 6.3. Why?  This is actually due to changes in\nthe number of births and deaths.  For an extremely long\nperiod of human history, until the 1800s, the world’s\npopulation grew steadily but slowly. Large numbers of\nbabies were born, but they died early too. This was as\nthere were no proper health facilities. Sufficient food was\nnot available for all the people. Farmers were not able\nto produce enough to meet the food requirements of all\nthe people. As a result the total increase in population\nwas very low.\nIn 1804, the world’s population reached one\nbillion. A hundred and fifty five years later, in 1959,\nthe world’s population reached 3 billion. This is often\ncalled population explosion. In 1999, 40 years later,\nthe population doubled to 6 billion. The main reason\nfor this growth was that with better food supplies and\nmedicine, deaths were reducing, while the number of\nbirths still remained fairly high.\nBirths are usually measured using the birth rate i.e.\nthe number of live births per 1,000 people. Deaths are\nusually measured using the death rate i.e. the number\nof deaths per 1,000 people. Migrations is the movement\nof people in and out of an area.\nBirths and deaths are the\nnatural causes of population\nchange. The difference between\nthe birth rate and the death\nrate of a country is called the\nnatural growth rate.\nThe population increase in\nthe world is mainly due to rapid\nincrease in natural growth rate.\nGlossary\nLife expectancy\nIt is the number\nof years that an\naverage person can\nexpect to live.\nFig 6.3: World Population Growth\n2021–22",
+      "pdfPage": 73,
+      "hasFigure": true,
+      "subject": "geography",
+      "className": 8,
+      "imagePath": "db/geography8/figures/page_73.png"
+    }
+  },
+  {
+    "id": "geo8_p74",
+    "metadata": {
+      "chunk_text": "Resources and Development\nMigration is another way by which population size\nchanges. People may move within a country or between\ncountries. Emigrants are people who leave a country;\nImmigrants are those who arrive in a country.\nCountries like the United States of America and\nAustralia have gained in-numbers by in-migration or\nimmigration. Sudan is an example of a country that\nhas experienced a loss in population numbers due to\nout-migration or emigration.\nThe general trend of international migrations is\nfrom the less developed nations to the more developed\nnations in search of better employment opportunities.\nWithin countries large number of people may move\nfrom the rural to urban areas in search of employment,\neducation and health facilities.\nPatterns of Population Change\nRates of population growth vary across the world\n(Fig 6.5). Although, the world’s total population is rising\nrapidly, not all countries are experiencing this growth.\nSome countries like Kenya have high population growth\nrates. They had both high birth rates and death rates.\nNow, with improving health care, death rates have\nfallen, but birth rates still remain high leading to high\ngrowth rates.\nIn other countries like United Kingdom, population\ngrowth is slowing because of both low death and low\nbirth rates.\nPolpulation Increase\nPolpulation steady\nPolpulation decrease\nFig 6.4: Balance of Population\nBirth rate more than death\nrate: population increase\nBirth rate and death rate same:\npopulation stays the same\nDeath rate more than birth\nrate:population decreases\nBirth Rate\nDeath Rate\nBirth Rate\nDeath Rate\nDeath Rate\nBirth Rate\nPopulation Increase\nPopulation Steady\nPopulation Decrease\nGlossary\nImmigration\nWhen a person\nenters a new\ncountry.\nEmigration\nWhen a person\nleaves a country.\n2021–22",
+      "pdfPage": 74,
+      "hasFigure": true,
+      "subject": "geography",
+      "className": 8,
+      "bookPage": 66,
+      "imagePath": "db/geography8/figures/page_74.png"
+    }
+  },
+  {
+    "id": "geo8_p75",
+    "metadata": {
+      "chunk_text": "Human Resources\nFig. 6.5: World: Differing rates of population growth\nPopulation Composition\nHow crowded a country is, has little to do with its level of\neconomic development. For example, both Bangladesh\nand Japan are very densely populated but Japan is\nfar\nmore\neconomically\ndeveloped than Bangladesh.\nTo understand the role of\npeople as a resource, we need\nto know more about their\nqualities. People vary greatly\nin their age, sex, literacy\nlevel,\nhealth\ncondition,\noccupation and income level.\nIt is essential to understand\nthese\ncharacteristics\nof\nthe\npeople.\nPopulation\ncomposition refers to the\nstructure of the population.\nThe\ncomposition\nof\npopulation helps us to know\nI am researching\nfor medicines to\ncure cancer.\nI sing at\nweddings.\nI tell stories\nto my\ngrandchildren.\nI build\nbridges.\nI take\ncare of my\nhome.\nI am a\nfarmer.\nThink: Every human being is potential resource for the society.\nWhat will be your contribution as a human resource?\n2021–22",
+      "pdfPage": 75,
+      "hasFigure": true,
+      "subject": "geography",
+      "className": 8,
+      "imagePath": "db/geography8/figures/page_75.png"
+    }
+  },
+  {
+    "id": "geo8_p76",
+    "metadata": {
+      "chunk_text": "Resources and Development\nWhat’s that?\nIt shows the\npre-sent number\nof males and\nfemales in a\ncountry along\nwith their age\ngroups.\nCan I play detective\nand investigate\nthe population of a\ncountry.\nSure, let’s study\nthree countries.\nWhat is this triangular\nlooking diagram?\nThis is a\npopulation\npyramid.\nhow many are males or females, which age group they\nbelong to, how educated they are and what type of\noccupations they are employed in, what their income\nlevels and health conditions are.\nAn interesting way of studying the population\ncomposition of a country is by looking at the population\npyramid, also called an age-sex pyramid.\nA population pyramid shows\n•\nThe total population divided into various age\ngroups, e.g., 5 to 9 years, 10 to 14 years.\n•\nThe percentage of the total population, subdivided\ninto males and females, in each of those groups.\nFig. 6.6: Population Pyramid\n2021–22",
+      "pdfPage": 76,
+      "hasFigure": true,
+      "subject": "geography",
+      "className": 8,
+      "bookPage": 68,
+      "imagePath": "db/geography8/figures/page_76.png"
+    }
+  },
+  {
+    "id": "geo8_p77",
+    "metadata": {
+      "chunk_text": "Human Resources\nThe shape of the population pyramid tells the story\nof the people living in that particular country. The\nnumbers of children (below 15 years) are shown at the\nbottom and reflect the level of births. The size of the\ntop shows the numbers of aged people (above 65 years)\nand reflects the number of deaths.\nThe population pyramid also tells us how many\ndependents there are in a country. There are two groups\nof dependents — young dependents (aged below 15 years)\nand elderly dependents (aged over 65 years). Those of the\nworking age are the economically active.\nThe population pyramid of a country in which birth\nand death rates bothe are high is broad at the base and\nrapidly narrows towards the top. This is because although,\nmany children are born, a\nlarge percentage of them die\nin their infancy, relatively\nfew become adults and there\nare very few old people. This\nsituation is typified by the\npyramid shown for Kenya\n(Fig 6.7).\nIn\ncountries\nwhere\ndeath\nrates\n(especially\namongst the very young)\nare decreasing, the pyramid\nis broad in the younger\nage groups, because\nmore infants survive\nto adulthood. This can be seen in the pyramid\nfor India (Fig 6.8). Such populations contain a\nrelatively large number of young people and which\nmeans a strong and expanding labour force.\nIn countries like Japan, low birth rates make\nthe pyramid narrow at the base (Fig 6.9). Decreased\ndeath rates allow numbers of people to reach\nold age.\nSkilled, spirited and hopeful young people\nendowed with a positive outlook are the future of\nany nation. We in India are fortunate to have such\na resource. They must be educated and provided\nskills and opportunities to become able and\nproductive.\nFig. 6.7: Population\nPyramid of Kenya\nFig. 6.8: Population Pyramid\nof India\nFig. 6.9: Population Pyramid\nof Japan\n2021–22",
+      "pdfPage": 77,
+      "hasFigure": true,
+      "subject": "geography",
+      "className": 8,
+      "imagePath": "db/geography8/figures/page_77.png"
+    }
+  },
+  {
+    "id": "geo8_p78",
+    "metadata": {
+      "chunk_text": "Resources and Development\nExercise\n1.\t Answer the following questions.\n(i)\t Why are people considered a resource?\n(ii) \tWhat are the causes for the uneven distribution of population in\nthe world?\n(iii) \tThe world population has grown very rapidly. Why?\n(iv) \tDiscuss the role of any two factors influencing population change.\n(v)\t What is meant by population composition?\n(vi)\t What are population pyramids? How do they help in understanding\nabout the population of a country?\n2.\t Tick the correct answer.\n(i)\t Which does the term population distribution refer to?\n(a)\tHow population in a specified area changes over time.\n(b)\tThe number of people who die in relation to the number of people\nborn in a specified area.\n(c)\t The way in which people are spread across a given area.\n(ii)\tWhich are three main factors that cause population change?\n(a)\t Births, deaths and marriage\n(b)\t Births, deaths and migration\n(c)\t Births, deaths and life expectancy\n(iii)\tIn 1999, the world population reached\n(a)\t 1 billion\n(b)\t 3 billion\n(c)\t 6 billion\n(iv)\tWhat is a population pyramid?\n(a)\t A graphical presentation of the age, sex composition of a\npopulation.\n(b)\t When the population density of an area is so high that people live\nin tall buildings.\n(c)\t Pattern of population distribution in large urban areas.\n3. \tComplete the sentences below using some of the following words.\nsparsely, favourable, fallow, artificial, fertile, natural, extreme, densely\nWhen people are attracted to an area it becomes .......................\npopulated\nFactors that influence this include ....................... climate; good\nsupplies of ....................... resources and ....................... land.\n2021–22",
+      "pdfPage": 78,
+      "hasFigure": false,
+      "subject": "geography",
+      "className": 8,
+      "bookPage": 70
+    }
+  },
+  {
+    "id": "geo8_p79",
+    "metadata": {
+      "chunk_text": "Human Resources\n4.\t Activity\nDiscuss the characteristics of a society with ‘too many under 15s’ and one\nwith ‘too few under 15s’.\nHint : need for schools; pension schemes, teachers, toys, wheel chairs, labour\nsupply, hospitals.\nSome Internet Sources for More Information\nwww.ndmindia.nic.in\nwww.environmentdefense.org\nwww.freefoto.com\nwww.worldgame.org/worldmeters\nwww.cseindia.org\nwww.mnes.nic.in\nwww.undp.org/popin\n2021–22",
+      "pdfPage": 79,
+      "hasFigure": false,
+      "subject": "geography",
+      "className": 8
+    }
+  },
+  {
+    "id": "geo8_p80",
+    "metadata": {
+      "chunk_text": "Notes\n2021–22",
+      "pdfPage": 80,
+      "hasFigure": false,
+      "subject": "geography",
+      "className": 8
+    }
+  }
+]
